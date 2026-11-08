@@ -1,0 +1,2582 @@
+[
+    {
+        "question": "Complétez les paroles de la Marseillaise \"Allons enfants de la patrie...\"",
+        "options": [
+            "Le jour de gloire est arrivé",
+            "Aux armes, citoyens",
+            "Contre nous de la tyrannie",
+            "Formez vos bataillons"
+        ],
+        "reponse": "Le jour de gloire est arrivé"
+    },
+    {
+        "question": "Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?",
+        "options": [
+            "Des questions sur ses compétences et son expérience professionnelle.",
+            "Des questions sur sa situation familiale et son désir d'avoir des enfants.",
+            "Quelle est sa religion et s'il la pratique régulièrement.",
+            "Quelles sont ses opinions politiques et syndicales."
+        ],
+        "reponse": "Des questions sur ses compétences et son expérience professionnelle."
+    },
+    {
+        "question": "Déclarer ses revenus aux services fiscaux est :",
+        "options": [
+            "Une obligation pour tous les contribuables.",
+            "Facultatif grâce au prélèvement à la source.",
+            "Obligatoire seulement pour les citoyens français.",
+            "Réservé uniquement aux personnes qui paient des impôts."
+        ],
+        "reponse": "Une obligation pour tous les contribuables."
+    },
+    {
+        "question": "En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+        "options": [
+            "Ils financent les services publics (éducation, santé, sécurité) et le fonctionnement de l'État.",
+            "Ils financent uniquement les entreprises privées du pays.",
+            "Ils servent exclusivement à payer le salaire des ministres et des députés.",
+            "Ils sont utilisés pour construire et financer les lieux de culte."
+        ],
+        "reponse": "Ils financent les services publics (éducation, santé, sécurité) et le fonctionnement de l'État."
+    },
+    {
+        "question": "La liberté d'association est :",
+        "options": [
+            "Le droit de créer ou de rejoindre une association (loi du 1er juillet 1901).",
+            "L'obligation d'obtenir une autorisation préalable du préfet pour se réunir.",
+            "Le droit de créer un groupe dans le but de partager des bénéfices financiers.",
+            "Un droit réservé exclusivement aux citoyens de nationalité française."
+        ],
+        "reponse": "Le droit de créer ou de rejoindre une association (loi du 1er juillet 1901)."
+    },
+    {
+        "question": "La liberté d'expression sur les réseaux sociaux en France est :",
+        "options": [
+            "Protégée par la loi, mais les contenus qui incitent à la haine ou à la violence sont interdits.",
+            "Totale et absolue grâce à l'anonymat sur internet.",
+            "Strictement interdite dès qu'il s'agit de critiquer le gouvernement.",
+            "Sans aucune limite juridique puisque internet est un espace international."
+        ],
+        "reponse": "Protégée par la loi, mais les contenus qui incitent à la haine ou à la violence sont interdits."
+    },
+    {
+        "question": "Lequel de ces prénoms évoque un symbole de la République ?",
+        "options": [
+            "Marianne",
+            "Jeanne",
+            "Marie",
+            "Joséphine"
+        ],
+        "reponse": "Marianne"
+    },
+    {
+        "question": "Lequel de ces symboles représente la République française ?",
+        "options": [
+            "Le drapeau tricolore (Bleu, Blanc, Rouge)",
+            "La fleur de lys dorée",
+            "L'aigle impérial",
+            "Une couronne royale"
+        ],
+        "reponse": "Le drapeau tricolore (Bleu, Blanc, Rouge)"
+    },
+    {
+        "question": "Où peut-on voir la devise de la République ?",
+        "options": [
+            "Sur les frontons des bâtiments publics (Mairies, Écoles, Palais de Justice).",
+            "Sur tous les billets de banque en euros.",
+            "Directement inscrite sur le drapeau tricolore officiel.",
+            "Sur les cartes bancaires des citoyens français."
+        ],
+        "reponse": "Sur les frontons des bâtiments publics (Mairies, Écoles, Palais de Justice)."
+    },
+    {
+        "question": "Lesquels sont des symboles officiels de la République française ?",
+        "options": [
+            "Le drapeau tricolore, La Marseillaise et la devise « Liberté, Égalité, Fraternité ».",
+            "Le coq gaulois, le béret et la baguette de pain.",
+            "La tour Eiffel, le musée du Louvre et l'Arc de Triomphe.",
+            "Le croissant, le fromage et le vin français."
+        ],
+        "reponse": "Le drapeau tricolore, La Marseillaise et la devise « Liberté, Égalité, Fraternité »."
+    },
+    {
+        "question": "Peut-on brûler publiquement un drapeau français ?",
+        "options": [
+            "Non, l'outrage au drapeau est puni par la loi.",
+            "Oui, c'est totalement autorisé au nom de la liberté d'expression.",
+            "Oui, à condition d'avoir acheté le drapeau soi-même.",
+            "Oui, mais uniquement lors d'une manifestation déclarée en préfecture."
+        ],
+        "reponse": "Non, l'outrage au drapeau est puni par la loi."
+    },
+    {
+        "question": "Quand la sécurité sociale a-t-elle été établie en France ?",
+        "options": [
+            "1945",
+            "1905",
+            "1958",
+            "1981"
+        ],
+        "reponse": "1945"
+    },
+    {
+        "question": "Que commémore la fête nationale ?",
+        "options": [
+            "La prise de la Bastille (14 juillet 1789) et la Fête de la Fédération (14 juillet 1790).",
+            "L'armistice de la Première Guerre mondiale en 1918.",
+            "La victoire des Alliés et la fin de la Seconde Guerre mondiale en 1945.",
+            "L'appel à la résistance du général de Gaulle en 1940."
+        ],
+        "reponse": "La prise de la Bastille (14 juillet 1789) et la Fête de la Fédération (14 juillet 1790)."
+    },
+    {
+        "question": "Que porte Marianne sur la tête ?",
+        "options": [
+            "Un bonnet phrygien",
+            "Une couronne royale",
+            "Un casque militaire",
+            "Un chapeau haut-de-forme"
+        ],
+        "reponse": "Un bonnet phrygien"
+    },
+    {
+        "question": "Que signifie le mot \"fraternité\" dans la devise française ?",
+        "options": [
+            "La solidarité et l'entraide mutuelle entre tous les citoyens.",
+            "L'obligation légale d'avoir des frères et sœurs pour fonder une famille.",
+            "Le fait que tous les citoyens perçoivent exactement le même salaire.",
+            "La priorité accordée aux membres de sa propre famille devant la loi."
+        ],
+        "reponse": "La solidarité et l'entraide mutuelle entre tous les citoyens."
+    },
+    {
+        "question": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+        "options": [
+            "Le coq gaulois",
+            "Marianne",
+            "La fleur de lys",
+            "Le lion"
+        ],
+        "reponse": "Le coq gaulois"
+    },
+    {
+        "question": "Quelle est la devise de la République française ?",
+        "options": [
+            "Liberté, Égalité, Fraternité",
+            "Liberté, Égalité, Laïcité",
+            "Unie dans la diversité",
+            "Travail, Famille, Patrie"
+        ],
+        "reponse": "Liberté, Égalité, Fraternité"
+    },
+    {
+        "question": "Qu'est-ce que la liberté d'association ?",
+        "options": [
+            "Le droit de se regrouper pour un projet commun sans but lucratif (loi de 1901).",
+            "Le droit de créer une société commerciale sans payer d'impôts.",
+            "L'obligation pour chaque citoyen d'adhérer à un syndicat ou un parti.",
+            "Le droit de former des groupes armés pour assurer sa propre sécurité."
+        ],
+        "reponse": "Le droit de se regrouper pour un projet commun sans but lucratif (loi de 1901)."
+    },
+    {
+        "question": "Qu'est-ce qu'une liberté ?",
+        "options": [
+            "Le droit de faire tout ce qui ne nuit pas à autrui, dans les limites de la loi.",
+            "La possibilité de faire tout ce que l'on veut sans aucune règle ni limite.",
+            "Le droit de ne respecter que les lois avec lesquelles on est d'accord.",
+            "Un privilège accordé uniquement aux citoyens les plus riches."
+        ],
+        "reponse": "Le droit de faire tout ce qui ne nuit pas à autrui, dans les limites de la loi."
+    },
+    {
+        "question": "Selon la Constitution, la France est une République...",
+        "options": [
+            "Indivisible, laïque, démocratique et sociale",
+            "Fédérale, laïque, pacifique et égalitaire",
+            "Unie, religieuse, parlementaire et libérale",
+            "Décentralisée, multiculturelle, souveraine et participative"
+        ],
+        "reponse": "Indivisible, laïque, démocratique et sociale"
+    },
+    {
+        "question": "Sur quel document peut-on voir Marianne ?",
+        "options": [
+            "Sur les timbres, les pièces de monnaie et les documents de l'administration.",
+            "Sur tous les billets de banque en euros.",
+            "Sur les permis de chasse et les factures d'électricité privées.",
+            "Sur les contrats de travail des entreprises privées."
+        ],
+        "reponse": "Sur les timbres, les pièces de monnaie et les documents de l'administration."
+    },
+    {
+        "question": "Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?",
+        "options": [
+            "Tous les citoyens ont les mêmes droits et devoirs devant la loi, sans distinction.",
+            "Tous les citoyens doivent obligatoirement toucher le même salaire.",
+            "Tout le monde doit avoir les mêmes opinions politiques et religieuses.",
+            "L'État donne un logement identique à chaque habitant."
+        ],
+        "reponse": "Tous les citoyens ont les mêmes droits et devoirs devant la loi, sans distinction."
+    },
+    {
+        "question": "Une personne peut-elle changer librement de religion en France ?",
+        "options": [
+            "Oui, chacun est libre de croire, de ne pas croire ou de changer de religion.",
+            "Non, il est obligatoire de conserver la religion de ses parents.",
+            "Oui, mais uniquement après avoir obtenu une autorisation de la mairie.",
+            "Non, la loi interdit de quitter sa religion d'origine."
+        ],
+        "reponse": "Oui, chacun est libre de croire, de ne pas croire ou de changer de religion."
+    },
+    {
+        "question": "Selon le principe de laïcité, que signifie la neutralité de l'État ?",
+        "options": [
+            "L'État ne finance et ne favorise aucune religion et traite tous les citoyens à égalité.",
+            "L'État interdit toutes les religions dans l'espace public.",
+            "L'État impose l'athéisme à l'ensemble des citoyens français.",
+            "L'État finance à parts égales la construction de toutes les églises et mosquées."
+        ],
+        "reponse": "L'État ne finance et ne favorise aucune religion et traite tous les citoyens à égalité."
+    },
+    {
+        "question": "Que peut faire un usager du service public dans une mairie ?",
+        "options": [
+            "S'inscrire sur les listes électorales, se marier et porter un signe religieux (sans se couvrir le visage).",
+            "Exiger d'être servi uniquement par un agent partageant sa propre religion.",
+            "Refuser de respecter les règles du service public au nom de ses croyances.",
+            "Passer l'examen du permis de conduire et déclarer ses impôts sur le revenu."
+        ],
+        "reponse": "S'inscrire sur les listes électorales, se marier et porter un signe religieux (sans se couvrir le visage)."
+    },
+    {
+        "question": "En France, il est possible pour l'État de financer :",
+        "options": [
+            "Les services publics et la restauration d'un monument religieux classé au patrimoine.",
+            "Le salaire des prêtres, des imams et des rabbins sur tout le territoire.",
+            "La construction de nouvelles églises, mosquées ou synagogues.",
+            "Les partis politiques étrangers et les organisations religieuses privées."
+        ],
+        "reponse": "Les services publics et la restauration d'un monument religieux classé au patrimoine."
+    },
+    {
+        "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+        "options": [
+            "1905",
+            "1901",
+            "1789",
+            "1958"
+        ],
+        "reponse": "1905"
+    },
+    {
+        "question": "Que dit la loi de 1905 ?",
+        "options": [
+            "Elle garantit la liberté de conscience, sépare les Églises et l'État et affirme que la République ne subventionne aucun culte.",
+            "Elle interdit la pratique de toute religion en France.",
+            "Elle fait du catholicisme la religion officielle de l'État français.",
+            "Elle crée le droit d'association à but non lucratif."
+        ],
+        "reponse": "Elle garantit la liberté de conscience, sépare les Églises et l'État et affirme que la République ne subventionne aucun culte."
+    },
+    {
+        "question": "Que garantit le principe de laïcité ?",
+        "options": [
+            "La neutralité de l'État, la liberté de conscience et le respect de toutes les croyances.",
+            "L'interdiction de croire en Dieu sur le territoire français.",
+            "L'obligation pour l'État de financer toutes les religions.",
+            "L'enseignement religieux obligatoire dans les écoles publiques."
+        ],
+        "reponse": "La neutralité de l'État, la liberté de conscience et le respect de toutes les croyances."
+    },
+    {
+        "question": "Quel jour célèbre-t-on officiellement la laïcité en France ?",
+        "options": [
+            "Le 9 décembre",
+            "Le 14 juillet",
+            "Le 1er mai",
+            "Le 9 mai"
+        ],
+        "reponse": "Le 9 décembre"
+    },
+    {
+        "question": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+        "options": [
+            "Un signe religieux discret qui ne se remarque pas immédiatement.",
+            "Un signe religieux ostensible (grande croix, voile, kippa).",
+            "Tous les signes religieux visibles sont autorisés pour les élèves.",
+            "Une tenue religieuse complète à condition d'avoir l'accord des parents."
+        ],
+        "reponse": "Un signe religieux discret qui ne se remarque pas immédiatement."
+    },
+    {
+        "question": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+        "options": [
+            "Antisémitisme",
+            "Xénophobie",
+            "Sexisme",
+            "Prosélytisme"
+        ],
+        "reponse": "Antisémitisme"
+    },
+    {
+        "question": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
+        "options": [
+            "La loi de 1905 de séparation des Églises et de l'État",
+            "La loi du 1er juillet 1901 sur les associations",
+            "Le Code civil de 1804",
+            "Le traité de Maastricht de 1992"
+        ],
+        "reponse": "La loi de 1905 de séparation des Églises et de l'État"
+    },
+    {
+        "question": "Quelle institution française doit rester neutre en matière de religion ?",
+        "options": [
+            "L'État, ses administrations, les collectivités territoriales et les services publics.",
+            "Les associations cultuelles et les églises privées.",
+            "Uniquement le Président de la République, pas les mairies.",
+            "Les citoyens dans leur vie privée et familiale."
+        ],
+        "reponse": "L'État, ses administrations, les collectivités territoriales et les services publics."
+    },
+    {
+        "question": "Qu'est-ce que la laïcité ?",
+        "options": [
+            "La séparation de l'État et des religions garantissant la liberté de conscience et l'égalité de tous.",
+            "Une loi qui interdit aux citoyens de pratiquer une religion.",
+            "Une religion officielle imposée par la République française.",
+            "L'obligation pour tous les citoyens d'être athées."
+        ],
+        "reponse": "La séparation de l'État et des religions garantissant la liberté de conscience et l'égalité de tous."
+    },
+    {
+        "question": "À l'école, la charte de la laïcité permet de :",
+        "options": [
+            "Rappeler les règles de la laïcité et expliquer qu'elle protège la liberté des élèves.",
+            "Choisir quelle religion doit être enseignée en priorité dans la classe.",
+            "Autoriser les élèves à refuser certains cours pour des motifs religieux.",
+            "Remplacer le règlement intérieur et les lois de la République."
+        ],
+        "reponse": "Rappeler les règles de la laïcité et expliquer qu'elle protège la liberté des élèves."
+    },
+    {
+        "question": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?",
+        "options": [
+            "Les agents du service public (fonctionnaires, enseignants, personnel de mairie ou d'hôpital).",
+            "Uniquement les usagers qui viennent demander un document administratif.",
+            "Seulement les directeurs d'administration, pas les employés au guichet.",
+            "Personne, chacun peut afficher ses convictions religieuses au travail dans le service public."
+        ],
+        "reponse": "Les agents du service public (fonctionnaires, enseignants, personnel de mairie ou d'hôpital)."
+    },
+    {
+        "question": "Une personne déclare ne croire en aucun dieu. On peut dire :",
+        "options": [
+            "Elle est athée.",
+            "Elle est agnostique.",
+            "Elle est croyante.",
+            "Elle est hors-la-loi."
+        ],
+        "reponse": "Elle est athée."
+    },
+    {
+        "question": "Comment est désigné le Premier ministre ?",
+        "options": [
+            "Par le Président de la République.",
+            "Il est élu directement par les citoyens français.",
+            "Il est élu par les députés de l'Assemblée nationale.",
+            "Il est tiré au sort par le Conseil constitutionnel."
+        ],
+        "reponse": "Par le Président de la République."
+    },
+    {
+        "question": "Qui peut se présenter aux élections présidentielles ?",
+        "options": [
+            "Tout citoyen français majeur jouissant de ses droits civiques et ayant obtenu 500 parrainages d'élus.",
+            "Tout citoyen de l'Union européenne résidant en France depuis au moins 5 ans.",
+            "Uniquement les députés et les sénateurs déjà en fonction.",
+            "Tout résident majeur vivant en France, quelle que soit sa nationalité."
+        ],
+        "reponse": "Tout citoyen français majeur jouissant de ses droits civiques et ayant obtenu 500 parrainages d'élus."
+    },
+    {
+        "question": "À qui appartient la souveraineté nationale ?",
+        "options": [
+            "Au peuple.",
+            "Au Président de la République seul.",
+            "Au Gouvernement et aux ministres.",
+            "Aux juges du Conseil constitutionnel."
+        ],
+        "reponse": "Au peuple."
+    },
+    {
+        "question": "Qui est élu lors des élections municipales ?",
+        "options": [
+            "Les conseillers municipaux.",
+            "Le préfet du département.",
+            "Les députés de l'Assemblée nationale.",
+            "Les sénateurs."
+        ],
+        "reponse": "Les conseillers municipaux."
+    },
+    {
+        "question": "L'inscription sur les listes électorales est :",
+        "options": [
+            "Obligatoire pour pouvoir voter.",
+            "Facultative, on peut voter avec une simple facture d'électricité.",
+            "Payante et renouvelable tous les ans.",
+            "Réservée aux personnes qui paient des impôts sur le revenu."
+        ],
+        "reponse": "Obligatoire pour pouvoir voter."
+    },
+    {
+        "question": "Quelle condition est nécessaire pour voter aux élections présidentielles ?",
+        "options": [
+            "Être français, majeur, inscrit sur les listes électorales et jouir de ses droits civils et politiques.",
+            "Être citoyen d'un pays de l'Union européenne et habiter en France.",
+            "Avoir une carte de résident de 10 ans et un contrat de travail.",
+            "Être propriétaire d'un bien immobilier en France."
+        ],
+        "reponse": "Être français, majeur, inscrit sur les listes électorales et jouir de ses droits civils et politiques."
+    },
+    {
+        "question": "Quelle condition faut-il remplir pour être candidat aux élections municipales ?",
+        "options": [
+            "Avoir 18 ans révolus, être électeur de la commune et être français ou citoyen de l'Union européenne.",
+            "Avoir une carte de séjour temporaire et résider en France depuis 2 ans.",
+            "Recueillir 500 parrainages de maires d'autres départements.",
+            "Avoir obligatoirement plus de 35 ans et être fonctionnaire."
+        ],
+        "reponse": "Avoir 18 ans révolus, être électeur de la commune et être français ou citoyen de l'Union européenne."
+    },
+    {
+        "question": "Parmi ces autorités, laquelle est élue ?",
+        "options": [
+            "Le Député (ou le Maire, le Sénateur, le Président de la République).",
+            "Le Préfet.",
+            "Le Recteur d'académie.",
+            "L'Ambassadeur."
+        ],
+        "reponse": "Le Député (ou le Maire, le Sénateur, le Président de la République)."
+    },
+    {
+        "question": "Quelles sont les fonctions du maire ?",
+        "options": [
+            "Représenter la commune, gérer le budget communal, les écoles primaires et l'état civil.",
+            "Voter les lois nationales et diriger l'armée française.",
+            "Rendre la justice pénale et condamner les criminels à la prison.",
+            "Diriger les lycées et les transports ferroviaires régionaux (TER)."
+        ],
+        "reponse": "Représenter la commune, gérer le budget communal, les écoles primaires et l'état civil."
+    },
+    {
+        "question": "Une personne, n'ayant pas d'accès à internet, veut s'inscrire sur les listes électorales pour pouvoir voter aux prochaines élections politiques. Où peut-elle s'inscrire ?",
+        "options": [
+            "En se rendant à la mairie de son domicile (ou par courrier).",
+            "Au commissariat de police ou à la gendarmerie.",
+            "Directement au bureau de poste de son quartier.",
+            "Auprès de sa Caisse primaire d'assurance maladie (CPAM)."
+        ],
+        "reponse": "En se rendant à la mairie de son domicile (ou par courrier)."
+    },
+    {
+        "question": "À quel âge peut-on devenir électeur ?",
+        "options": [
+            "À partir de 18 ans",
+            "À partir de 16 ans",
+            "À partir de 15 ans",
+            "À partir de 21 ans"
+        ],
+        "reponse": "À partir de 18 ans"
+    },
+    {
+        "question": "En France, est-ce obligatoire de voter ?",
+        "options": [
+            "Non, c'est un droit et un devoir civique, mais l'abstention n'est pas punie par la loi.",
+            "Oui, toute personne qui ne vote pas reçoit une amende de 135 euros.",
+            "Oui, ne pas voter entraîne la perte immédiate de la nationalité française.",
+            "Oui, mais uniquement lors de l'élection présidentielle."
+        ],
+        "reponse": "Non, c'est un droit et un devoir civique, mais l'abstention n'est pas punie par la loi."
+    },
+    {
+        "question": "A-t-on le droit de ne pas respecter une loi ?",
+        "options": [
+            "Non, nul n'est censé ignorer la loi et chacun doit la respecter.",
+            "Oui, si on estime que la loi est contraire à ses convictions personnelles.",
+            "Oui, si l'on n'était pas au courant de l'existence de cette loi.",
+            "Oui, à condition de payer un impôt supplémentaire à la mairie."
+        ],
+        "reponse": "Non, nul n'est censé ignorer la loi et chacun doit la respecter."
+    },
+    {
+        "question": "Comment sont désignés les députés ?",
+        "options": [
+            "Ils sont élus au suffrage universel direct par les citoyens lors des élections législatives.",
+            "Ils sont élus au suffrage indirect par les grands électeurs.",
+            "Ils sont nommés directement par le Président de la République.",
+            "Ils sont choisis par le Premier ministre parmi les maires."
+        ],
+        "reponse": "Ils sont élus au suffrage universel direct par les citoyens lors des élections législatives."
+    },
+    {
+        "question": "Qui vote les lois ?",
+        "options": [
+            "Le Parlement (l'Assemblée nationale et le Sénat).",
+            "Le Président de la République seul.",
+            "Le Premier ministre et les préfets.",
+            "Les juges de la Cour de cassation."
+        ],
+        "reponse": "Le Parlement (l'Assemblée nationale et le Sénat)."
+    },
+    {
+        "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+        "options": [
+            "Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.",
+            "Le pouvoir présidentiel, le pouvoir municipal et le pouvoir préfectoral.",
+            "Le pouvoir politique, le pouvoir médiatique et le pouvoir financier.",
+            "Le pouvoir civil, le pouvoir militaire et le pouvoir religieux."
+        ],
+        "reponse": "Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire."
+    },
+    {
+        "question": "Qu'est-ce que l'État de droit ?",
+        "options": [
+            "Un système dans lequel la loi est la même pour tous et doit être respectée par tous, y compris par l'État.",
+            "Un régime où le Président de la République peut modifier les lois sans aucun contrôle.",
+            "Un système où la police décide seule des peines de prison sans passer par un juge.",
+            "Un État où seuls les juristes et les avocats ont le droit de voter."
+        ],
+        "reponse": "Un système dans lequel la loi est la même pour tous et doit être respectée par tous, y compris par l'État."
+    },
+    {
+        "question": "Quelles sont les durées du mandat du conseil municipal et du maire ?",
+        "options": [
+            "6 ans.",
+            "5 ans.",
+            "7 ans.",
+            "4 ans."
+        ],
+        "reponse": "6 ans."
+    },
+    {
+        "question": "Qui est élu lors des élections législatives ?",
+        "options": [
+            "Les députés",
+            "Les sénateurs",
+            "Les conseillers régionaux",
+            "Les maires"
+        ],
+        "reponse": "Les députés"
+    },
+    {
+        "question": "Quelle est la durée du mandat du Président de la République française ?",
+        "options": [
+            "5 ans",
+            "7 ans",
+            "6 ans",
+            "4 ans"
+        ],
+        "reponse": "5 ans"
+    },
+    {
+        "question": "Quelle est la durée du mandat des députés ?",
+        "options": [
+            "5 ans",
+            "6 ans",
+            "7 ans",
+            "3 ans"
+        ],
+        "reponse": "5 ans"
+    },
+    {
+        "question": "Quelle est la durée du mandat des sénateurs ?",
+        "options": [
+            "6 ans",
+            "5 ans",
+            "7 ans",
+            "4 ans"
+        ],
+        "reponse": "6 ans"
+    },
+    {
+        "question": "Qui dirige l'action du gouvernement ?",
+        "options": [
+            "Le Premier ministre",
+            "Le Président du Sénat",
+            "Le Président de l'Assemblée nationale",
+            "Le Défenseur des droits"
+        ],
+        "reponse": "Le Premier ministre"
+    },
+    {
+        "question": "En France, est-ce possible d'adhérer à un parti politique ?",
+        "options": [
+            "Oui, c'est un droit fondamental, les partis se forment et exercent leur activité librement.",
+            "Non, seuls les élus ont le droit d'appartenir à un parti politique.",
+            "Oui, c'est même obligatoire pour avoir le droit de voter aux élections.",
+            "Seulement au parti politique du Président de la République en fonction."
+        ],
+        "reponse": "Oui, c'est un droit fondamental, les partis se forment et exercent leur activité librement."
+    },
+    {
+        "question": "Qui sanctionne l'auteur d'un vol ?",
+        "options": [
+            "Le juge (le pouvoir judiciaire / le tribunal correctionnel).",
+            "La police ou la gendarmerie directement au commissariat.",
+            "Le maire de la commune où a eu lieu le vol.",
+            "La victime elle-même."
+        ],
+        "reponse": "Le juge (le pouvoir judiciaire / le tribunal correctionnel)."
+    },
+    {
+        "question": "Qui gère les collèges publics ?",
+        "options": [
+            "Le Département (ou Conseil départemental).",
+            "La Commune (ou la Mairie).",
+            "La Région (ou Conseil régional).",
+            "L'Union européenne."
+        ],
+        "reponse": "Le Département (ou Conseil départemental)."
+    },
+    {
+        "question": "Qui gère les écoles primaires et maternelles publiques ?",
+        "options": [
+            "La Commune (ou la Mairie).",
+            "Le Département (ou Conseil départemental).",
+            "La Région (ou Conseil régional).",
+            "La Préfecture."
+        ],
+        "reponse": "La Commune (ou la Mairie)."
+    },
+    {
+        "question": "Comment sont désignés les maires ?",
+        "options": [
+            "Par élection par le conseil municipal.",
+            "Par les citoyens au suffrage universel direct.",
+            "Par nomination du préfet du département.",
+            "Par nomination du Président de la République."
+        ],
+        "reponse": "Par élection par le conseil municipal."
+    },
+    {
+        "question": "Quelle collectivité territoriale est responsable des transports régionaux ?",
+        "options": [
+            "La région",
+            "La commune",
+            "Le département",
+            "Le ministère des Armées"
+        ],
+        "reponse": "La région"
+    },
+    {
+        "question": "Quelle est l'une des voies possibles pour modifier la Constitution ?",
+        "options": [
+            "Par référendum (vote des citoyens) ou par le vote du Parlement réuni en Congrès.",
+            "Par une simple décision du Premier ministre.",
+            "Par un arrêté municipal voté par les maires de France.",
+            "La Constitution ne peut jamais être modifiée."
+        ],
+        "reponse": "Par référendum (vote des citoyens) ou par le vote du Parlement réuni en Congrès."
+    },
+    {
+        "question": "Qui assure l'intérim du président de la République en cas de décès ?",
+        "options": [
+            "Le Président du Sénat.",
+            "Le Premier ministre.",
+            "Le Président de l'Assemblée nationale.",
+            "Le ministre de l'Intérieur."
+        ],
+        "reponse": "Le Président du Sénat."
+    },
+    {
+        "question": "Quel est le rôle du Conseil constitutionnel ?",
+        "options": [
+            "Vérifier que les lois respectent la Constitution et contrôler la régularité des élections nationales.",
+            "Rédiger le budget des communes et des départements.",
+            "Juger les crimes et les délits de droit commun.",
+            "Diriger la police nationale et l'armée."
+        ],
+        "reponse": "Vérifier que les lois respectent la Constitution et contrôler la régularité des élections nationales."
+    },
+    {
+        "question": "Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?",
+        "options": [
+            "Être français, majeur, jouir de ses droits civiques et avoir recueilli 500 parrainages d'élus.",
+            "Avoir déjà été ministre ou député pendant au moins 10 ans.",
+            "Verser une caution d'un million d'euros à l'État.",
+            "Être né en France métropolitaine."
+        ],
+        "reponse": "Être français, majeur, jouir de ses droits civiques et avoir recueilli 500 parrainages d'élus."
+    },
+    {
+        "question": "Combien y a-t-il de départements en France ?",
+        "options": [
+            "101",
+            "96",
+            "95",
+            "18"
+        ],
+        "reponse": "101"
+    },
+    {
+        "question": "Comment est organisé le découpage administratif de la France ?",
+        "options": [
+            "Régions, départements, communes.",
+            "États fédérés, provinces, cantons.",
+            "Royaumes, duchés, comtés.",
+            "Préfectures, tribunaux, commissariats."
+        ],
+        "reponse": "Régions, départements, communes."
+    },
+    {
+        "question": "Qui représente l'État dans un département ?",
+        "options": [
+            "Le préfet",
+            "Le maire",
+            "Le président du conseil départemental",
+            "Le sénateur"
+        ],
+        "reponse": "Le préfet"
+    },
+    {
+        "question": "Quel est le rôle du Président de la République ?",
+        "options": [
+            "Il est le chef de l'État, chef des armées, garant de la Constitution et il nomme le Premier ministre.",
+            "Il vote seul toutes les lois et le budget de l'État.",
+            "Il juge les criminels devant la cour d'assises.",
+            "Il gère l'état civil et les écoles maternelles de chaque commune."
+        ],
+        "reponse": "Il est le chef de l'État, chef des armées, garant de la Constitution et il nomme le Premier ministre."
+    },
+    {
+        "question": "Quel est le rôle du Premier ministre ?",
+        "options": [
+            "Il dirige l'action du Gouvernement, assure l'exécution des lois et est responsable devant le Parlement.",
+            "Il préside la Cour européenne des droits de l'homme.",
+            "Il élit les sénateurs et les maires de France.",
+            "Il est le chef suprême des armées et détient le pouvoir judiciaire."
+        ],
+        "reponse": "Il dirige l'action du Gouvernement, assure l'exécution des lois et est responsable devant le Parlement."
+    },
+    {
+        "question": "Quel est le rôle du Défenseur des droits ?",
+        "options": [
+            "Veiller au respect des droits et libertés, défendre les usagers des services publics et lutter contre les discriminations.",
+            "Assurer la défense militaire des frontières françaises en cas de guerre.",
+            "Représenter gratuitement tous les accusés devant le tribunal correctionnel.",
+            "Voter les lois relatives à la sécurité intérieure au Sénat."
+        ],
+        "reponse": "Veiller au respect des droits et libertés, défendre les usagers des services publics et lutter contre les discriminations."
+    },
+    {
+        "question": "En quelle année la citoyenneté européenne a-t-elle été créée ?",
+        "options": [
+            "1992 (Traité de Maastricht)",
+            "1957 (Traité de Rome)",
+            "2002 (Mise en circulation de l'euro)",
+            "1945 (Fin de la Seconde Guerre mondiale)"
+        ],
+        "reponse": "1992 (Traité de Maastricht)"
+    },
+    {
+        "question": "Quel est le dernier État à avoir intégré l'Union Européenne en 2013 ?",
+        "options": [
+            "La Croatie",
+            "La Roumanie",
+            "La Bulgarie",
+            "La Pologne"
+        ],
+        "reponse": "La Croatie"
+    },
+    {
+        "question": "Qui a composé l'hymne de l'Union européenne ?",
+        "options": [
+            "Ludwig van Beethoven",
+            "Claude Joseph Rouget de Lisle",
+            "Wolfgang Amadeus Mozart",
+            "Claude Debussy"
+        ],
+        "reponse": "Ludwig van Beethoven"
+    },
+    {
+        "question": "Quand est célébrée la journée de l'Europe ?",
+        "options": [
+            "Le 9 mai",
+            "Le 8 mai",
+            "Le 14 juillet",
+            "Le 11 novembre"
+        ],
+        "reponse": "Le 9 mai"
+    },
+    {
+        "question": "Où est le siège de la Banque centrale européenne ?",
+        "options": [
+            "Francfort",
+            "Strasbourg",
+            "Bruxelles",
+            "Paris"
+        ],
+        "reponse": "Francfort"
+    },
+    {
+        "question": "Où est le siège de la Commission européenne ?",
+        "options": [
+            "Bruxelles",
+            "Strasbourg",
+            "Francfort",
+            "Genève"
+        ],
+        "reponse": "Bruxelles"
+    },
+    {
+        "question": "Qui siège au Parlement européen ?",
+        "options": [
+            "Des eurodéputés élus directement par les citoyens des États membres.",
+            "Les chefs d'État et de gouvernement de l'Union européenne.",
+            "Les ministres des Finances de chaque pays membre.",
+            "Les ambassadeurs nommés par l'ONU."
+        ],
+        "reponse": "Des eurodéputés élus directement par les citoyens des États membres."
+    },
+    {
+        "question": "Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?",
+        "options": [
+            "Oui, aux élections municipales et aux élections européennes.",
+            "Non, ils ne peuvent voter que dans leur pays d'origine.",
+            "Oui, à toutes les élections, y compris l'élection présidentielle.",
+            "Oui, mais uniquement après 15 ans de résidence dans le pays."
+        ],
+        "reponse": "Oui, aux élections municipales et aux élections européennes."
+    },
+    {
+        "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+        "options": [
+            "27",
+            "28",
+            "20",
+            "12"
+        ],
+        "reponse": "27"
+    },
+    {
+        "question": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+        "options": [
+            "1992",
+            "1957",
+            "1951",
+            "2002"
+        ],
+        "reponse": "1992"
+    },
+    {
+        "question": "Quel traité concerne la construction de l'Union européenne ?",
+        "options": [
+            "Le traité de Maastricht (1992) ou le traité de Rome (1957).",
+            "Le traité de Versailles (1919).",
+            "Les accords d'Évian (1962).",
+            "L'édit de Nantes (1598)."
+        ],
+        "reponse": "Le traité de Maastricht (1992) ou le traité de Rome (1957)."
+    },
+    {
+        "question": "Quel État a quitté l'Union Européenne en 2020 ?",
+        "options": [
+            "Le Royaume-Uni",
+            "La Suisse",
+            "La Norvège",
+            "La Grèce"
+        ],
+        "reponse": "Le Royaume-Uni"
+    },
+    {
+        "question": "Quelle est la devise de l'Union européenne ?",
+        "options": [
+            "Unie dans la diversité",
+            "Liberté, Égalité, Fraternité",
+            "L'union fait la force",
+            "Ordre et Progrès"
+        ],
+        "reponse": "Unie dans la diversité"
+    },
+    {
+        "question": "Quel est l'hymne de l'Union Européenne ?",
+        "options": [
+            "L'Ode à la Joie.",
+            "La Marseillaise.",
+            "Le Chant des partisans.",
+            "God Save the King."
+        ],
+        "reponse": "L'Ode à la Joie."
+    },
+    {
+        "question": "De quoi est composé le drapeau européen ?",
+        "options": [
+            "D'un cercle de 12 étoiles dorées sur fond bleu.",
+            "De 27 étoiles blanches sur fond bleu.",
+            "De trois bandes verticales bleue, blanche et rouge.",
+            "D'une colombe blanche sur fond vert."
+        ],
+        "reponse": "D'un cercle de 12 étoiles dorées sur fond bleu."
+    },
+    {
+        "question": "Qui élit les députés européens ?",
+        "options": [
+            "Les citoyens des États membres au suffrage universel direct.",
+            "Les gouvernements nationaux de chaque pays membre.",
+            "Les députés des parlements nationaux.",
+            "Le président de la Commission européenne."
+        ],
+        "reponse": "Les citoyens des États membres au suffrage universel direct."
+    },
+    {
+        "question": "Où est le siège du Parlement européen ?",
+        "options": [
+            "Strasbourg",
+            "Francfort",
+            "Londres",
+            "Genève"
+        ],
+        "reponse": "Strasbourg"
+    },
+    {
+        "question": "À quoi sert le droit de grève ?",
+        "options": [
+            "À permettre aux salariés de cesser collectivement le travail pour défendre leurs intérêts professionnels.",
+            "À prendre des jours de vacances supplémentaires tout en conservant son salaire.",
+            "À permettre à un salarié de s'absenter seul sans prévenir son employeur.",
+            "À autoriser la dégradation du matériel de l'entreprise en cas de conflit."
+        ],
+        "reponse": "À permettre aux salariés de cesser collectivement le travail pour défendre leurs intérêts professionnels."
+    },
+    {
+        "question": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+        "options": [
+            "Pour préserver l'ordre public, l'intérêt général et protéger les droits et libertés d'autrui.",
+            "Pour empêcher toute critique politique envers le gouvernement en place.",
+            "Pour favoriser une catégorie de citoyens par rapport à une autre.",
+            "Uniquement pour réduire les dépenses du budget de l'État."
+        ],
+        "reponse": "Pour préserver l'ordre public, l'intérêt général et protéger les droits et libertés d'autrui."
+    },
+    {
+        "question": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+        "options": [
+            "\"Les hommes naissent et demeurent libres et égaux en droits.\"",
+            "\"Unie dans la diversité.\"",
+            "\"Travail, Famille, Patrie.\"",
+            "\"L'État, c'est moi.\""
+        ],
+        "reponse": "\"Les hommes naissent et demeurent libres et égaux en droits.\""
+    },
+    {
+        "question": "L'article 4 de la Déclaration des droits de l'homme et du citoyen affirme que \"la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui\". Qu'est-ce que cela signifie ?",
+        "options": [
+            "Que la liberté individuelle s'arrête là où commence celle des autres et est encadrée par la loi.",
+            "Que chacun peut faire tout ce qu'il veut tant qu'il n'est pas vu par la police.",
+            "Que les lois ne s'appliquent qu'aux personnes qui commettent des crimes graves.",
+            "Qu'il est interdit d'exprimer une opinion différente de celle de ses voisins."
+        ],
+        "reponse": "Que la liberté individuelle s'arrête là où commence celle des autres et est encadrée par la loi."
+    },
+    {
+        "question": "Que dit l'article 1er de la Constitution française ?",
+        "options": [
+            "La France est une République indivisible, laïque, démocratique et sociale.",
+            "La France est une monarchie parlementaire unie et décentralisée.",
+            "La France est un État fédéral composé de régions autonomes.",
+            "La France reconnaît une religion d'État officielle."
+        ],
+        "reponse": "La France est une République indivisible, laïque, démocratique et sociale."
+    },
+    {
+        "question": "Que garantit la liberté de la presse ?",
+        "options": [
+            "Que les journalistes et médias peuvent informer librement le public sans censure préalable de l'État, dans le respect de la loi.",
+            "Que les journalistes ont le droit de tout publier sans aucune limite, y compris des diffamations ou injures.",
+            "Que tous les journaux sont rédigés et contrôlés par le ministère de la Culture.",
+            "La gratuité obligatoire de tous les journaux et magazines en France."
+        ],
+        "reponse": "Que les journalistes et médias peuvent informer librement le public sans censure préalable de l'État, dans le respect de la loi."
+    },
+    {
+        "question": "Que permet la liberté de circulation ?",
+        "options": [
+            "Le droit d'aller et venir librement sur le territoire français, de choisir son domicile et de circuler dans l'Union européenne.",
+            "Le droit de conduire une voiture ou une moto sans avoir passé le permis de conduire.",
+            "Le droit d'utiliser gratuitement tous les trains et les bus en France.",
+            "L'autorisation de ne pas respecter les limitations de vitesse sur l'autoroute."
+        ],
+        "reponse": "Le droit d'aller et venir librement sur le territoire français, de choisir son domicile et de circuler dans l'Union européenne."
+    },
+    {
+        "question": "Que signifie être citoyen d'un État ?",
+        "options": [
+            "Avoir la nationalité de cet État, ce qui confère des droits civils et politiques (comme le vote) ainsi que des devoirs.",
+            "Simplement habiter ou travailler dans ce pays depuis plus d'un an.",
+            "Être propriétaire d'un appartement ou d'une maison dans la capitale.",
+            "Avoir des droits illimités sans aucune obligation envers la société."
+        ],
+        "reponse": "Avoir la nationalité de cet État, ce qui confère des droits civils et politiques (comme le vote) ainsi que des devoirs."
+    },
+    {
+        "question": "Que sont les droits fondamentaux ?",
+        "options": [
+            "Des droits et libertés essentiels et inaliénables garantis par la Constitution et les textes internationaux.",
+            "Des privilèges accordés uniquement aux élus politiques et aux hauts fonctionnaires.",
+            "Des règles temporaires que le maire peut supprimer à tout moment.",
+            "Des droits réservés aux personnes qui paient le plus d'impôts."
+        ],
+        "reponse": "Des droits et libertés essentiels et inaliénables garantis par la Constitution et les textes internationaux."
+    },
+    {
+        "question": "Quel droit protège une personne contre une arrestation arbitraire ?",
+        "options": [
+            "Le droit à la sûreté.",
+            "Le droit de grève.",
+            "La liberté d'association.",
+            "Le droit de propriété."
+        ],
+        "reponse": "Le droit à la sûreté."
+    },
+    {
+        "question": "Quel est le texte fondateur établissant les droits et les devoirs de chaque citoyen ?",
+        "options": [
+            "La Déclaration des Droits de l'Homme et du Citoyen de 1789.",
+            "Le Code de la route.",
+            "La loi de 1901 sur les associations.",
+            "Le traité de Rome de 1957."
+        ],
+        "reponse": "La Déclaration des Droits de l'Homme et du Citoyen de 1789."
+    },
+    {
+        "question": "Quel texte affirme que tous les hommes naissent libres et égaux en droits ?",
+        "options": [
+            "La Déclaration des Droits de l'Homme et du Citoyen de 1789.",
+            "Le Code civil de Napoléon de 1804.",
+            "La loi de séparation des Églises et de l'État de 1905.",
+            "Les lois scolaires de Jules Ferry de 1881."
+        ],
+        "reponse": "La Déclaration des Droits de l'Homme et du Citoyen de 1789."
+    },
+    {
+        "question": "Quelle situation est une atteinte à la dignité humaine ?",
+        "options": [
+            "Subir des tortures, des traitements inhumains ou être soumis à des conditions d'esclavage moderne.",
+            "Recevoir une amende pour un stationnement interdit.",
+            "Devoir déclarer ses revenus chaque année aux impôts.",
+            "Être licencié pour un motif économique prévu par la loi."
+        ],
+        "reponse": "Subir des tortures, des traitements inhumains ou être soumis à des conditions d'esclavage moderne."
+    },
+    {
+        "question": "Qu'est-ce que la liberté d'expression ?",
+        "options": [
+            "Le droit de communiquer ses idées et opinions, dans le respect de la loi (sans diffamation, injure ou incitation à la haine).",
+            "Le droit d'insulter publiquement les personnes qui n'ont pas le même avis que soi.",
+            "La possibilité de diffuser de fausses accusations sans jamais pouvoir être poursuivi en justice.",
+            "Un droit réservé exclusivement aux journalistes professionnels."
+        ],
+        "reponse": "Le droit de communiquer ses idées et opinions, dans le respect de la loi (sans diffamation, injure ou incitation à la haine)."
+    },
+    {
+        "question": "Suite à une interpellation par la police, il est possible de :",
+        "options": [
+            "Être assisté par un avocat, garder le silence, faire prévenir un proche et demander à voir un médecin.",
+            "Partir librement du commissariat dès qu'on le souhaite.",
+            "Donner une fausse identité pour protéger sa vie privée.",
+            "Exiger d'être jugé immédiatement par le maire de la commune."
+        ],
+        "reponse": "Être assisté par un avocat, garder le silence, faire prévenir un proche et demander à voir un médecin."
+    },
+    {
+        "question": "Tous les citoyens français ont-ils une religion ?",
+        "options": [
+            "Non, la religion est un choix individuel (liberté de conscience) : chacun est libre de croire ou de ne pas croire.",
+            "Oui, il est obligatoire d'avoir une religion pour obtenir la nationalité française.",
+            "Oui, tous les citoyens français sont inscrits sur un registre religieux à la mairie.",
+            "Non, car la loi française interdit d'avoir une religion."
+        ],
+        "reponse": "Non, la religion est un choix individuel (liberté de conscience) : chacun est libre de croire ou de ne pas croire."
+    },
+    {
+        "question": "À quel âge est la majorité numérique en France ?",
+        "options": [
+            "15 ans",
+            "18 ans",
+            "13 ans",
+            "16 ans"
+        ],
+        "reponse": "15 ans"
+    },
+    {
+        "question": "Dans lequel de ces endroits est-on autorisé à fumer ?",
+        "options": [
+            "Dans un lieu privé (comme son domicile) ou dans la rue (hors abords des écoles et abribus).",
+            "Dans les parcs et jardins publics et sur les plages.",
+            "Dans les restaurants, les gares et les hôpitaux.",
+            "Dans les cours des écoles et des collèges."
+        ],
+        "reponse": "Dans un lieu privé (comme son domicile) ou dans la rue (hors abords des écoles et abribus)."
+    },
+    {
+        "question": "En France, la conduite sans permis d'une moto est :",
+        "options": [
+            "Un délit grave puni par la loi (passible de prison et d'une forte amende).",
+            "Autorisée si la moto ne dépasse pas 80 km/h sur route.",
+            "Une simple erreur administrative sans aucune sanction pénale.",
+            "Permise le week-end sur les routes de campagne."
+        ],
+        "reponse": "Un délit grave puni par la loi (passible de prison et d'une forte amende)."
+    },
+    {
+        "question": "En quoi consiste le devoir de solidarité ?",
+        "options": [
+            "À contribuer au bien commun (payer ses impôts et cotisations) et à porter secours aux personnes en danger.",
+            "À prêter obligatoirement sa voiture et son logement à ses voisins.",
+            "À adhérer au même parti politique que les membres de sa famille.",
+            "À travailler bénévolement tous les dimanches pour la mairie."
+        ],
+        "reponse": "À contribuer au bien commun (payer ses impôts et cotisations) et à porter secours aux personnes en danger."
+    },
+    {
+        "question": "Est-ce légal d'être marié à plusieurs personnes en même temps ?",
+        "options": [
+            "Non, la polygamie est strictement interdite en France.",
+            "Oui, si tous les époux sont d'accord.",
+            "Oui, si les mariages ont été célébrés à l'étranger.",
+            "Oui, si la religion des époux l'autorise."
+        ],
+        "reponse": "Non, la polygamie est strictement interdite en France."
+    },
+    {
+        "question": "Est-ce obligatoire de déclarer ses impôts chaque année en France ?",
+        "options": [
+            "Oui, la déclaration de revenus est obligatoire chaque année pour tous les résidents, même non-imposables.",
+            "Non, c'est obligatoire uniquement si l'on gagne plus de 50 000 euros par an.",
+            "Non, depuis la mise en place du prélèvement à la source, il n'y a plus rien à déclarer.",
+            "Seulement une fois tous les cinq ans."
+        ],
+        "reponse": "Oui, la déclaration de revenus est obligatoire chaque année pour tous les résidents, même non-imposables."
+    },
+    {
+        "question": "Est-il obligatoire de porter secours à une personne en danger ?",
+        "options": [
+            "Oui, c'est une obligation légale (au minimum en appelant les secours).",
+            "Non, c'est uniquement un choix moral personnel.",
+            "C'est obligatoire seulement pour les médecins et les pompiers.",
+            "Non, il est préférable de ne pas intervenir pour ne pas être témoin."
+        ],
+        "reponse": "Oui, c'est une obligation légale (au minimum en appelant les secours)."
+    },
+    {
+        "question": "Être juré d'assises est :",
+        "options": [
+            "Un devoir civique obligatoire permettant aux citoyens de participer à la justice criminelle.",
+            "Un métier réservé aux avocats et aux policiers.",
+            "Une activité bénévole facultative que l'on peut refuser librement.",
+            "Une sanction infligée aux personnes qui n'ont pas voté."
+        ],
+        "reponse": "Un devoir civique obligatoire permettant aux citoyens de participer à la justice criminelle."
+    },
+    {
+        "question": "La vente d'alcool en France est interdite aux personnes de moins de :",
+        "options": [
+            "18 ans",
+            "16 ans",
+            "21 ans",
+            "15 ans"
+        ],
+        "reponse": "18 ans"
+    },
+    {
+        "question": "Le non-respect du code de la route est :",
+        "options": [
+            "Une infraction (contravention ou délit) qui entraîne des sanctions comme une amende ou un retrait de points.",
+            "Sans conséquence tant que l'on ne provoque pas d'accident matériel.",
+            "Sanctionné uniquement si l'on conduit un poids lourd.",
+            "Autorisé la nuit lorsque la route est déserte."
+        ],
+        "reponse": "Une infraction (contravention ou délit) qui entraîne des sanctions comme une amende ou un retrait de points."
+    },
+    {
+        "question": "Lequel de ces crimes ou délits peut entraîner la privation des droits civils et politiques par un juge ?",
+        "options": [
+            "Un viol, des actes de terrorisme, une fraude électorale ou des faits de corruption.",
+            "Un simple retard de paiement d'une facture d'eau.",
+            "Un oubli de compostage d'un billet de train.",
+            "Un stationnement gênant sur une place de livraison."
+        ],
+        "reponse": "Un viol, des actes de terrorisme, une fraude électorale ou des faits de corruption."
+    },
+    {
+        "question": "Pour obtenir une carte d'identité, il faut :",
+        "options": [
+            "Être de nationalité française.",
+            "Avoir obligatoirement plus de 18 ans.",
+            "Être né sur le territoire français.",
+            "Avoir un contrat de travail à durée indéterminée (CDI)."
+        ],
+        "reponse": "Être de nationalité française."
+    },
+    {
+        "question": "Pour quel motif peut-on limiter la liberté d'expression ?",
+        "options": [
+            "Pour punir les injures, la diffamation et l'incitation à la haine, au racisme ou à la violence.",
+            "Pour empêcher les citoyens de critiquer la politique du gouvernement.",
+            "Pour interdire les débats politiques pendant les campagnes électorales.",
+            "Pour obliger tous les journaux à défendre les mêmes idées."
+        ],
+        "reponse": "Pour punir les injures, la diffamation et l'incitation à la haine, au racisme ou à la violence."
+    },
+    {
+        "question": "Que doit faire un citoyen s'il est appelé à être juré dans un procès d'assises ?",
+        "options": [
+            "Il est obligé de siéger (sauf motif grave reconnu valable), sous peine d'amende.",
+            "Il peut refuser sur simple lettre s'il préfère aller travailler.",
+            "Il peut envoyer un ami ou un membre de sa famille à sa place.",
+            "Il doit payer un avocat pour le représenter."
+        ],
+        "reponse": "Il est obligé de siéger (sauf motif grave reconnu valable), sous peine d'amende."
+    },
+    {
+        "question": "Quel est l'âge de la majorité civile en France ?",
+        "options": [
+            "18 ans",
+            "16 ans",
+            "21 ans",
+            "15 ans"
+        ],
+        "reponse": "18 ans"
+    },
+    {
+        "question": "Quel est l'un des devoirs principaux d'un citoyen français ?",
+        "options": [
+            "Respecter la loi, contribuer au financement des services publics (impôts) et participer à la défense du pays.",
+            "Adhérer obligatoirement à un parti politique et à un syndicat.",
+            "Ne jamais quitter le territoire français pendant plus d'un mois.",
+            "Acheter uniquement des produits fabriqués en France."
+        ],
+        "reponse": "Respecter la loi, contribuer au financement des services publics (impôts) et participer à la défense du pays."
+    },
+    {
+        "question": "Quelle est l'infraction la plus grave ?",
+        "options": [
+            "Le crime",
+            "Le délit",
+            "La contravention",
+            "L'incivilité"
+        ],
+        "reponse": "Le crime"
+    },
+    {
+        "question": "Qu'est-ce que la citoyenneté numérique ?",
+        "options": [
+            "Faire un usage responsable, éthique et respectueux de la loi et d'autrui sur les outils numériques.",
+            "L'obligation de passer toutes ses démarches et élections sur un téléphone portable.",
+            "Le fait d'être diplômé en informatique pour pouvoir voter en ligne.",
+            "Le droit de télécharger gratuitement des films et de la musique sur internet."
+        ],
+        "reponse": "Faire un usage responsable, éthique et respectueux de la loi et d'autrui sur les outils numériques."
+    },
+    {
+        "question": "Qu'est-ce que le devoir de mémoire ?",
+        "options": [
+            "L'obligation morale de se souvenir des événements tragiques du passé (Guerres, Shoah, Esclavage) pour défendre la démocratie.",
+            "L'obligation d'apprendre par cœur tous les articles du Code civil.",
+            "Un examen d'histoire obligatoire tous les 10 ans pour conserver sa carte d'identité.",
+            "Le fait d'interdire la recherche historique sur les conflits anciens."
+        ],
+        "reponse": "L'obligation morale de se souvenir des événements tragiques du passé (Guerres, Shoah, Esclavage) pour défendre la démocratie."
+    },
+    {
+        "question": "Qui peut être appelé à faire partie d'un jury d'assises en France ?",
+        "options": [
+            "Des citoyens français inscrits sur les listes électorales et tirés au sort.",
+            "Uniquement des magistrats et des avocats à la retraite.",
+            "Tous les résidents étrangers vivant en France depuis plus de 5 ans.",
+            "Des volontaires qui déposent leur candidature au commissariat."
+        ],
+        "reponse": "Des citoyens français inscrits sur les listes électorales et tirés au sort."
+    },
+    {
+        "question": "Une personne est privée de ses droits civils et politiques pendant 5 ans suite à une condamnation. Parmi ces propositions laquelle est correcte ? Pendant 5 ans,...",
+        "options": [
+            "Elle ne peut plus voter ni se présenter aux élections.",
+            "Elle n'a plus le droit de travailler ni d'avoir un compte bancaire.",
+            "Elle n'a plus le droit de se soigner à l'hôpital public.",
+            "Elle perd automatiquement son logement et sa nationalité."
+        ],
+        "reponse": "Elle ne peut plus voter ni se présenter aux élections."
+    },
+    {
+        "question": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+        "options": [
+            "Le Code civil.",
+            "La Déclaration des Droits de l'Homme et du Citoyen.",
+            "La loi de séparation des Églises et de l'État.",
+            "L'ordonnance créant la Sécurité sociale."
+        ],
+        "reponse": "Le Code civil."
+    },
+    {
+        "question": "Qui a été président de la Ve République ?",
+        "options": [
+            "Charles de Gaulle (ou François Mitterrand, Jacques Chirac, Emmanuel Macron...).",
+            "Jules Ferry.",
+            "Léon Blum.",
+            "Jean Moulin."
+        ],
+        "reponse": "Charles de Gaulle (ou François Mitterrand, Jacques Chirac, Emmanuel Macron...)."
+    },
+    {
+        "question": "Quel est l'objectif des lois scolaires de la IIIe République ?",
+        "options": [
+            "Rendre l'école primaire publique gratuite, laïque et obligatoire.",
+            "Rendre l'enseignement religieux obligatoire dans toutes les écoles.",
+            "Réserver l'accès au lycée et à l'université uniquement aux garçons.",
+            "Privatiser l'ensemble des écoles de France."
+        ],
+        "reponse": "Rendre l'école primaire publique gratuite, laïque et obligatoire."
+    },
+    {
+        "question": "Que signifie la date du 14 juillet pour les Français ?",
+        "options": [
+            "C'est la fête nationale (prise de la Bastille en 1789 et Fête de la Fédération en 1790).",
+            "C'est l'anniversaire de la fin de la Première Guerre mondiale (1918).",
+            "C'est la fête du Travail.",
+            "C'est le jour de la création de l'Union européenne."
+        ],
+        "reponse": "C'est la fête nationale (prise de la Bastille en 1789 et Fête de la Fédération en 1790)."
+    },
+    {
+        "question": "Pourquoi l'année 1958 est importante pour la France ?",
+        "options": [
+            "Elle marque la naissance et l'adoption de la Constitution de la Cinquième (Ve) République.",
+            "C'est l'année de l'abolition définitive de la peine de mort.",
+            "C'est l'année où les femmes ont obtenu le droit de vote.",
+            "Elle correspond à la signature du traité de Maastricht."
+        ],
+        "reponse": "Elle marque la naissance et l'adoption de la Constitution de la Cinquième (Ve) République."
+    },
+    {
+        "question": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
+        "options": [
+            "La France (ou l'Allemagne, l'Italie, la Belgique, les Pays-Bas, le Luxembourg).",
+            "Le Royaume-Uni.",
+            "L'Espagne.",
+            "La Suède."
+        ],
+        "reponse": "La France (ou l'Allemagne, l'Italie, la Belgique, les Pays-Bas, le Luxembourg)."
+    },
+    {
+        "question": "Simone Veil est une figure importante de l'histoire française. Elle a notamment :",
+        "options": [
+            "Fait voter la loi autorisant l'avortement (IVG) en 1975 et présidé le Parlement européen.",
+            "Été la première femme élue Présidente de la République française.",
+            "Composé l'hymne national de la France pendant la Révolution.",
+            "Découvert la radioactivité et obtenu deux prix Nobel."
+        ],
+        "reponse": "Fait voter la loi autorisant l'avortement (IVG) en 1975 et présidé le Parlement européen."
+    },
+    {
+        "question": "Dans quelle région est située une partie des plages du débarquement ayant permis d'engager la libération de la France ?",
+        "options": [
+            "La Normandie",
+            "La Bretagne",
+            "La Corse",
+            "L'Île-de-France"
+        ],
+        "reponse": "La Normandie"
+    },
+    {
+        "question": "Dans quelle ville les rois de France étaient-ils couronnés ?",
+        "options": [
+            "Reims",
+            "Saint-Denis",
+            "Versailles",
+            "Lyon"
+        ],
+        "reponse": "Reims"
+    },
+    {
+        "question": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+        "options": [
+            "Louis XVI",
+            "Louis XIV",
+            "François Ier",
+            "Henri IV"
+        ],
+        "reponse": "Louis XVI"
+    },
+    {
+        "question": "En quelle année a débuté la Révolution française ?",
+        "options": [
+            "1789",
+            "1804",
+            "1848",
+            "1905"
+        ],
+        "reponse": "1789"
+    },
+    {
+        "question": "En quelle année Napoléon Ier est-il devenu empereur ?",
+        "options": [
+            "1804",
+            "1789",
+            "1815",
+            "1870"
+        ],
+        "reponse": "1804"
+    },
+    {
+        "question": "Lequel de ces personnages a un lien avec la République française ?",
+        "options": [
+            "Marianne (ou Jules Ferry, Charles de Gaulle, Victor Hugo).",
+            "Louis XIV.",
+            "Clovis.",
+            "François Ier."
+        ],
+        "reponse": "Marianne (ou Jules Ferry, Charles de Gaulle, Victor Hugo)."
+    },
+    {
+        "question": "De quand date l'appel à la résistance du général de Gaulle ?",
+        "options": [
+            "18 juin 1940",
+            "8 mai 1945",
+            "11 novembre 1918",
+            "14 juillet 1789"
+        ],
+        "reponse": "18 juin 1940"
+    },
+    {
+        "question": "Qu'est-ce que la Shoah ?",
+        "options": [
+            "Le génocide systématique des Juifs d'Europe commis par le régime nazi pendant la Seconde Guerre mondiale.",
+            "Une bataille militaire de la Première Guerre mondiale.",
+            "Le traité de paix signé à la fin de la guerre de Cent Ans.",
+            "L'abolition des privilèges pendant la Révolution française."
+        ],
+        "reponse": "Le génocide systématique des Juifs d'Europe commis par le régime nazi pendant la Seconde Guerre mondiale."
+    },
+    {
+        "question": "Quel pays a été une colonie française ?",
+        "options": [
+            "L'Algérie (ou Madagascar, l'Indochine, le Sénégal...).",
+            "Le Brésil.",
+            "L'Australie.",
+            "Le Japon."
+        ],
+        "reponse": "L'Algérie (ou Madagascar, l'Indochine, le Sénégal...)."
+    },
+    {
+        "question": "Qui a rendu l'école gratuite, laïque et obligatoire ?",
+        "options": [
+            "Jules Ferry",
+            "Victor Schœlcher",
+            "Napoléon Bonaparte",
+            "Jean Moulin"
+        ],
+        "reponse": "Jules Ferry"
+    },
+    {
+        "question": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+        "options": [
+            "1962",
+            "1958",
+            "1944",
+            "1981"
+        ],
+        "reponse": "1962"
+    },
+    {
+        "question": "En quelle année l'Union européenne a-t-elle été fondée ?",
+        "options": [
+            "1992",
+            "1945",
+            "1918",
+            "2013"
+        ],
+        "reponse": "1992"
+    },
+    {
+        "question": "Quand a eu lieu la Seconde guerre mondiale ?",
+        "options": [
+            "1939-1945",
+            "1914-1918",
+            "1870-1871",
+            "1954-1962"
+        ],
+        "reponse": "1939-1945"
+    },
+    {
+        "question": "Quand a eu lieu la Première guerre mondiale ?",
+        "options": [
+            "1914-1918",
+            "1939-1945",
+            "1804-1815",
+            "1945-1950"
+        ],
+        "reponse": "1914-1918"
+    },
+    {
+        "question": "Sous quel président a été abolie la peine de mort en France ?",
+        "options": [
+            "François Mitterrand",
+            "Charles de Gaulle",
+            "Valéry Giscard d'Estaing",
+            "Georges Pompidou"
+        ],
+        "reponse": "François Mitterrand"
+    },
+    {
+        "question": "Que célèbre-t-on le 8 mai ?",
+        "options": [
+            "La victoire des Alliés et la fin de la Seconde Guerre mondiale en Europe (1945).",
+            "L'armistice de la Première Guerre mondiale (1918).",
+            "La Fête du Travail.",
+            "La prise de la Bastille (1789)."
+        ],
+        "reponse": "La victoire des Alliés et la fin de la Seconde Guerre mondiale en Europe (1945)."
+    },
+    {
+        "question": "Quelle est la première étape de la construction européenne en 1951 ?",
+        "options": [
+            "La création de la Communauté européenne du charbon et de l'acier (CECA).",
+            "La mise en circulation des pièces et billets en euros.",
+            "L'entrée de la Croatie dans l'Union européenne.",
+            "La signature du traité de Maastricht."
+        ],
+        "reponse": "La création de la Communauté européenne du charbon et de l'acier (CECA)."
+    },
+    {
+        "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+        "options": [
+            "Jean Moulin (ou le Général de Gaulle, Joséphine Baker).",
+            "Le maréchal Philippe Pétain.",
+            "Jules Ferry.",
+            "Victor Hugo."
+        ],
+        "reponse": "Jean Moulin (ou le Général de Gaulle, Joséphine Baker)."
+    },
+    {
+        "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+        "options": [
+            "L'armistice de la Première Guerre mondiale (1918) et l'hommage aux morts pour la France.",
+            "La fin de la Seconde Guerre mondiale en 1945.",
+            "La journée de la laïcité.",
+            "La fête nationale de la République."
+        ],
+        "reponse": "L'armistice de la Première Guerre mondiale (1918) et l'hommage aux morts pour la France."
+    },
+    {
+        "question": "Depuis quand l'esclavage a-t-il été aboli en France ?",
+        "options": [
+            "1848",
+            "1905",
+            "1944",
+            "1802"
+        ],
+        "reponse": "1848"
+    },
+    {
+        "question": "Qui a aboli l'esclavage en France ?",
+        "options": [
+            "Victor Schœlcher",
+            "Jules Ferry",
+            "Napoléon Ier",
+            "Abraham Lincoln"
+        ],
+        "reponse": "Victor Schœlcher"
+    },
+    {
+        "question": "Depuis quelle année l'école publique est-elle gratuite ?",
+        "options": [
+            "1881",
+            "1905",
+            "1945",
+            "1958"
+        ],
+        "reponse": "1881"
+    },
+    {
+        "question": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+        "options": [
+            "Elles ont obtenu le droit de vote et le droit d'être élues.",
+            "Elles ont obtenu la légalisation de l'avortement (IVG).",
+            "Elles ont été obligées de faire le service militaire.",
+            "La durée légale du travail est passée à 35 heures."
+        ],
+        "reponse": "Elles ont obtenu le droit de vote et le droit d'être élues."
+    },
+    {
+        "question": "Quelle organisation a été créée en 1945 après la Seconde Guerre mondiale ?",
+        "options": [
+            "L'Organisation des Nations Unies (ONU)",
+            "La Société des Nations (SDN)",
+            "L'Union européenne (UE)",
+            "La Banque centrale européenne (BCE)"
+        ],
+        "reponse": "L'Organisation des Nations Unies (ONU)"
+    },
+    {
+        "question": "En quelle année l'euro est-il devenu la monnaie officielle de la France ?",
+        "options": [
+            "2002",
+            "1992",
+            "1957",
+            "2010"
+        ],
+        "reponse": "2002"
+    },
+    {
+        "question": "Lors de la seconde guerre mondiale, à quelle date la ville de Paris a-t-elle été libérée ?",
+        "options": [
+            "Le 25 août 1944",
+            "Le 18 juin 1940",
+            "Le 11 novembre 1918",
+            "Le 14 juillet 1945"
+        ],
+        "reponse": "Le 25 août 1944"
+    },
+    {
+        "question": "Quel était le principal port français impliqué dans la traite négrière au XVIIIe siècle ?",
+        "options": [
+            "Nantes",
+            "Strasbourg",
+            "Lyon",
+            "Lille"
+        ],
+        "reponse": "Nantes"
+    },
+    {
+        "question": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+        "options": [
+            "Montesquieu (ou Voltaire, Condorcet)",
+            "René Descartes",
+            "Jean-Paul Sartre",
+            "Molière"
+        ],
+        "reponse": "Montesquieu (ou Voltaire, Condorcet)"
+    },
+    {
+        "question": "Quelle œuvre a été écrite par Victor Hugo ?",
+        "options": [
+            "Les Misérables (ou Notre-Dame de Paris, Les Contemplations).",
+            "Madame Bovary.",
+            "Le Petit Prince.",
+            "L'Étranger."
+        ],
+        "reponse": "Les Misérables (ou Notre-Dame de Paris, Les Contemplations)."
+    },
+    {
+        "question": "Quel peintre est français ?",
+        "options": [
+            "Claude Monet (ou Auguste Renoir, Paul Cézanne, Eugène Delacroix).",
+            "Pablo Picasso.",
+            "Vincent van Gogh.",
+            "Léonard de Vinci."
+        ],
+        "reponse": "Claude Monet (ou Auguste Renoir, Paul Cézanne, Eugène Delacroix)."
+    },
+    {
+        "question": "Quel plat est une spécialité de la cuisine française ?",
+        "options": [
+            "Le pot-au-feu (ou la blanquette de veau, le bœuf bourguignon).",
+            "La paella.",
+            "Le sushi.",
+            "La pizza napolitaine."
+        ],
+        "reponse": "Le pot-au-feu (ou la blanquette de veau, le bœuf bourguignon)."
+    },
+    {
+        "question": "Qui était Marie Curie ?",
+        "options": [
+            "Une physicienne et chimiste pionnière de la radioactivité, double prix Nobel.",
+            "Une romancière française du XIXe siècle.",
+            "La première femme ministre de la Santé sous la Ve République.",
+            "Une célèbre chanteuse d'opéra."
+        ],
+        "reponse": "Une physicienne et chimiste pionnière de la radioactivité, double prix Nobel."
+    },
+    {
+        "question": "Qui a peint \"La liberté guidant le peuple\" ?",
+        "options": [
+            "Eugène Delacroix",
+            "Claude Monet",
+            "Auguste Renoir",
+            "Pablo Picasso"
+        ],
+        "reponse": "Eugène Delacroix"
+    },
+    {
+        "question": "Dans quel grand musée parisien est exposée la Joconde ?",
+        "options": [
+            "Le Louvre",
+            "Le musée d'Orsay",
+            "Le Centre Pompidou",
+            "Le musée du Quai Branly"
+        ],
+        "reponse": "Le Louvre"
+    },
+    {
+        "question": "Quel château célèbre se trouve près de Paris et symbolise le pouvoir royal de Louis XIV ?",
+        "options": [
+            "Le Château de Versailles",
+            "Le Château de Chambord",
+            "Le Château d'If",
+            "Le Palais des Papes"
+        ],
+        "reponse": "Le Château de Versailles"
+    },
+    {
+        "question": "Où peut-on voir des peintures préhistoriques en France ?",
+        "options": [
+            "Dans la grotte de Lascaux",
+            "Au sommet de la Tour Eiffel",
+            "Dans les jardins du château de Versailles",
+            "Sur le pont d'Avignon"
+        ],
+        "reponse": "Dans la grotte de Lascaux"
+    },
+    {
+        "question": "Quel peintre célèbre a peint les Nymphéas ?",
+        "options": [
+            "Claude Monet",
+            "Édouard Manet",
+            "Eugène Delacroix",
+            "Paul Cézanne"
+        ],
+        "reponse": "Claude Monet"
+    },
+    {
+        "question": "Pendant quelles journées peut-on visiter gratuitement des lieux culturels en France ?",
+        "options": [
+            "Les Journées européennes du patrimoine",
+            "La Fête de la musique",
+            "Le Festival de Cannes",
+            "Le Tour de France"
+        ],
+        "reponse": "Les Journées européennes du patrimoine"
+    },
+    {
+        "question": "Que symbolise le 1er mai ?",
+        "options": [
+            "La Fête du Travail",
+            "La fin de la Seconde Guerre mondiale",
+            "La prise de la Bastille",
+            "L'armistice de 1918"
+        ],
+        "reponse": "La Fête du Travail"
+    },
+    {
+        "question": "Qui était Monsieur Rouget de Lisle ?",
+        "options": [
+            "Le compositeur de La Marseillaise.",
+            "Le premier président de la République française.",
+            "L'architecte de la Tour Eiffel.",
+            "Un philosophe du siècle des Lumières."
+        ],
+        "reponse": "Le compositeur de La Marseillaise."
+    },
+    {
+        "question": "À quelle occasion a été construite la Tour Eiffel ?",
+        "options": [
+            "Pour l'Exposition Universelle de 1889",
+            "Pour célébrer la victoire de 1918",
+            "Pour les Jeux Olympiques de 1924",
+            "Pour le couronnement de Napoléon en 1804"
+        ],
+        "reponse": "Pour l'Exposition Universelle de 1889"
+    },
+    {
+        "question": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+        "options": [
+            "Les Alpes",
+            "Les Pyrénées",
+            "Les Vosges",
+            "Le Massif central"
+        ],
+        "reponse": "Les Alpes"
+    },
+    {
+        "question": "Qui était Molière ?",
+        "options": [
+            "Un célèbre dramaturge (auteur de théâtre) et comédien français du XVIIe siècle.",
+            "Un roi de France de la Renaissance.",
+            "Un général de la Révolution française.",
+            "Un peintre impressionniste du XIXe siècle."
+        ],
+        "reponse": "Un célèbre dramaturge (auteur de théâtre) et comédien français du XVIIe siècle."
+    },
+    {
+        "question": "Qui était Charles Baudelaire ?",
+        "options": [
+            "Un poète français majeur du XIXe siècle (auteur des Fleurs du mal).",
+            "L'inventeur du vaccin contre la rage.",
+            "Un président de la IIIe République.",
+            "Un compositeur d'opéra du XVIIIe siècle."
+        ],
+        "reponse": "Un poète français majeur du XIXe siècle (auteur des Fleurs du mal)."
+    },
+    {
+        "question": "Qui était George Sand ?",
+        "options": [
+            "Une écrivaine et romancière française du XIXe siècle.",
+            "Un général anglais allié de la France en 1914.",
+            "Un peintre cubiste du XXe siècle.",
+            "Une reine de France épouse de Louis XIV."
+        ],
+        "reponse": "Une écrivaine et romancière française du XIXe siècle."
+    },
+    {
+        "question": "Qui était Simone de Beauvoir ?",
+        "options": [
+            "Une philosophe, romancière et figure majeure du féminisme français (auteure du Deuxième Sexe).",
+            "Une actrice du cinéma muet.",
+            "Une reine du Moyen Âge.",
+            "Une navigatrice ayant traversé l'Atlantique."
+        ],
+        "reponse": "Une philosophe, romancière et figure majeure du féminisme français (auteure du Deuxième Sexe)."
+    },
+    {
+        "question": "Qui était Albert Camus ?",
+        "options": [
+            "Un écrivain et philosophe français, prix Nobel de littérature (auteur de L'Étranger et La Peste).",
+            "Un physicien ayant travaillé sur l'énergie nucléaire.",
+            "Un architecte célèbre du château de Versailles.",
+            "Le fondateur de la Sécurité sociale en 1945."
+        ],
+        "reponse": "Un écrivain et philosophe français, prix Nobel de littérature (auteur de L'Étranger et La Peste)."
+    },
+    {
+        "question": "Qui était Marguerite Yourcenar ?",
+        "options": [
+            "Une écrivaine française, première femme élue à l'Académie française.",
+            "La première femme pilote d'avion en France.",
+            "Une chanteuse populaire de l'entre-deux-guerres.",
+            "Une résistante fusillée en 1942."
+        ],
+        "reponse": "Une écrivaine française, première femme élue à l'Académie française."
+    },
+    {
+        "question": "Qui était Paul Cézanne ?",
+        "options": [
+            "Un peintre post-impressionniste français, considéré comme le père de la peinture moderne.",
+            "Un célèbre auteur de pièces de théâtre comiques.",
+            "Un ministre de l'Économie sous Charles de Gaulle.",
+            "Un explorateur polaire français."
+        ],
+        "reponse": "Un peintre post-impressionniste français, considéré comme le père de la peinture moderne."
+    },
+    {
+        "question": "Qui était Auguste Rodin ?",
+        "options": [
+            "Un sculpteur français célèbre (auteur du Penseur).",
+            "Un compositeur de musique romantique.",
+            "Un romancier du siècle des Lumières.",
+            "Un roi de la dynastie des Bourbons."
+        ],
+        "reponse": "Un sculpteur français célèbre (auteur du Penseur)."
+    },
+    {
+        "question": "Qui était un célèbre compositeur français ?",
+        "options": [
+            "Claude Debussy (ou Maurice Ravel, Hector Berlioz, Rouget de Lisle).",
+            "Wolfgang Amadeus Mozart.",
+            "Ludwig van Beethoven.",
+            "Giuseppe Verdi."
+        ],
+        "reponse": "Claude Debussy (ou Maurice Ravel, Hector Berlioz, Rouget de Lisle)."
+    },
+    {
+        "question": "Qui était Auguste Renoir ?",
+        "options": [
+            "Un peintre impressionniste français.",
+            "Un sculpteur du Moyen Âge.",
+            "Un maréchal de l'Empire napoléonien.",
+            "Un poète surréaliste du XXe siècle."
+        ],
+        "reponse": "Un peintre impressionniste français."
+    },
+    {
+        "question": "Quel musée est situé à Paris ?",
+        "options": [
+            "Le Musée du Louvre (ou le Musée d'Orsay, le Centre Pompidou, le Musée du Quai Branly).",
+            "Le Mucem.",
+            "Le Musée des Confluences.",
+            "Le Musée Guggenheim."
+        ],
+        "reponse": "Le Musée du Louvre (ou le Musée d'Orsay, le Centre Pompidou, le Musée du Quai Branly)."
+    },
+    {
+        "question": "Quel monument historique se trouve sur une île en Normandie ?",
+        "options": [
+            "Le Mont-Saint-Michel",
+            "Le Château d'If",
+            "La Cité de Carcassonne",
+            "Le Pont du Gard"
+        ],
+        "reponse": "Le Mont-Saint-Michel"
+    },
+    {
+        "question": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+        "options": [
+            "Paris (ou Marseille, Lyon, Toulouse, Nice, Nantes, Montpellier, Strasbourg, Bordeaux, Lille).",
+            "Saint-Tropez.",
+            "Chamonix.",
+            "Deauville."
+        ],
+        "reponse": "Paris (ou Marseille, Lyon, Toulouse, Nice, Nantes, Montpellier, Strasbourg, Bordeaux, Lille)."
+    },
+    {
+        "question": "Quelle île fait partie des Antilles françaises ?",
+        "options": [
+            "La Martinique (ou la Guadeloupe, Saint-Martin, Saint-Barthélemy).",
+            "La Réunion.",
+            "Mayotte.",
+            "La Corse."
+        ],
+        "reponse": "La Martinique (ou la Guadeloupe, Saint-Martin, Saint-Barthélemy)."
+    },
+    {
+        "question": "Quelle île est française ?",
+        "options": [
+            "La Corse (ou la Martinique, la Guadeloupe, La Réunion, Mayotte, Tahiti...).",
+            "La Sardaigne.",
+            "La Sicile.",
+            "Majorque."
+        ],
+        "reponse": "La Corse (ou la Martinique, la Guadeloupe, La Réunion, Mayotte, Tahiti...)."
+    },
+    {
+        "question": "Quelle est la plus haute montagne de France ?",
+        "options": [
+            "Le Mont Blanc",
+            "Le Pic du Midi",
+            "Le Puy de Dôme",
+            "Le Mont Ventoux"
+        ],
+        "reponse": "Le Mont Blanc"
+    },
+    {
+        "question": "Quelle île française est située dans l'océan indien ?",
+        "options": [
+            "La Réunion (ou Mayotte)",
+            "La Martinique",
+            "La Guadeloupe",
+            "Saint-Pierre-et-Miquelon"
+        ],
+        "reponse": "La Réunion (ou Mayotte)"
+    },
+    {
+        "question": "Quel département français a une frontière avec le Brésil ?",
+        "options": [
+            "La Guyane",
+            "La Réunion",
+            "La Martinique",
+            "Mayotte"
+        ],
+        "reponse": "La Guyane"
+    },
+    {
+        "question": "De quelle ville française décolle la fusée Ariane ?",
+        "options": [
+            "Kourou (en Guyane)",
+            "Toulouse",
+            "Bordeaux",
+            "Brest"
+        ],
+        "reponse": "Kourou (en Guyane)"
+    },
+    {
+        "question": "Quelle mer ou océan borde la France métropolitaine ?",
+        "options": [
+            "L'océan Atlantique (ou la mer Méditerranée, la Manche, la mer du Nord).",
+            "L'océan Pacifique.",
+            "L'océan Indien.",
+            "La mer Rouge."
+        ],
+        "reponse": "L'océan Atlantique (ou la mer Méditerranée, la Manche, la mer du Nord)."
+    },
+    {
+        "question": "Quelle mer se situe entre la France et l'Angleterre ?",
+        "options": [
+            "La Manche",
+            "La mer Méditerranée",
+            "La mer Baltique",
+            "La mer Noire"
+        ],
+        "reponse": "La Manche"
+    },
+    {
+        "question": "Quelle île est un département d'outre-mer français ?",
+        "options": [
+            "La Guadeloupe (ou la Martinique, La Réunion, Mayotte).",
+            "Tahiti.",
+            "La Corse.",
+            "Saint-Pierre-et-Miquelon."
+        ],
+        "reponse": "La Guadeloupe (ou la Martinique, La Réunion, Mayotte)."
+    },
+    {
+        "question": "Qu'est-ce que la France d'outre-mer ?",
+        "options": [
+            "Les territoires français situés en dehors de la France métropolitaine (hors du continent européen).",
+            "Les anciennes colonies françaises devenues des États indépendants.",
+            "Les pays européens frontaliers de la France.",
+            "Les îles situées uniquement en mer Méditerranée."
+        ],
+        "reponse": "Les territoires français situés en dehors de la France métropolitaine (hors du continent européen)."
+    },
+    {
+        "question": "Quelle est la population approximative de la France en 2025 ?",
+        "options": [
+            "Environ 68 millions d'habitants (68,6 millions).",
+            "Environ 50 millions d'habitants.",
+            "Environ 85 millions d'habitants.",
+            "Environ 100 millions d'habitants."
+        ],
+        "reponse": "Environ 68 millions d'habitants (68,6 millions)."
+    },
+    {
+        "question": "Quel est le principal port maritime de France ?",
+        "options": [
+            "Le port de Marseille (Marseille-Fos) ou le port du Havre.",
+            "Le port de Lyon.",
+            "Le port de Paris.",
+            "Le port de Clermont-Ferrand."
+        ],
+        "reponse": "Le port de Marseille (Marseille-Fos) ou le port du Havre."
+    },
+    {
+        "question": "Combien y a-t-il de régions en France métropolitaine ?",
+        "options": [
+            "13",
+            "18",
+            "22",
+            "101"
+        ],
+        "reponse": "13"
+    },
+    {
+        "question": "Quelle chaîne de montagnes est située entre la France et l'Espagne ?",
+        "options": [
+            "Les Pyrénées",
+            "Les Alpes",
+            "Le Jura",
+            "Les Vosges"
+        ],
+        "reponse": "Les Pyrénées"
+    },
+    {
+        "question": "Quelle île française se trouve au sud-est du continent africain ?",
+        "options": [
+            "La Réunion (ou Mayotte)",
+            "La Guadeloupe",
+            "La Martinique",
+            "La Corse"
+        ],
+        "reponse": "La Réunion (ou Mayotte)"
+    },
+    {
+        "question": "Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?",
+        "options": [
+            "Lyon",
+            "Clermont-Ferrand",
+            "Grenoble",
+            "Saint-Étienne"
+        ],
+        "reponse": "Lyon"
+    },
+    {
+        "question": "Quel est le chef-lieu de la région Bretagne ?",
+        "options": [
+            "Rennes",
+            "Nantes",
+            "Brest",
+            "Saint-Malo"
+        ],
+        "reponse": "Rennes"
+    },
+    {
+        "question": "Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?",
+        "options": [
+            "Marseille",
+            "Nice",
+            "Avignon",
+            "Toulon"
+        ],
+        "reponse": "Marseille"
+    },
+    {
+        "question": "Quel est le 101ème département français depuis 2011 ?",
+        "options": [
+            "Mayotte",
+            "La Guyane",
+            "La Réunion",
+            "La Corse-du-Sud"
+        ],
+        "reponse": "Mayotte"
+    },
+    {
+        "question": "Quelle région française est réputée pour ses stations de ski ?",
+        "options": [
+            "Auvergne-Rhône-Alpes",
+            "Bretagne",
+            "Normandie",
+            "Pays de la Loire"
+        ],
+        "reponse": "Auvergne-Rhône-Alpes"
+    },
+    {
+        "question": "Quel fleuve traverse Paris ?",
+        "options": [
+            "La Seine",
+            "La Loire",
+            "Le Rhône",
+            "La Garonne"
+        ],
+        "reponse": "La Seine"
+    },
+    {
+        "question": "Où faut-il déclarer la naissance d'un enfant ?",
+        "options": [
+            "À la mairie du lieu de naissance.",
+            "À la mairie du domicile des parents uniquement.",
+            "À la préfecture du département.",
+            "Au commissariat de police."
+        ],
+        "reponse": "À la mairie du lieu de naissance."
+    },
+    {
+        "question": "Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+        "options": [
+            "Faire des travaux décoratifs, comme repeindre les murs ou poser des étagères.",
+            "Abattre une cloison ou casser un mur porteur.",
+            "Sous-louer l'appartement à une autre personne.",
+            "Transformer le logement en local commercial."
+        ],
+        "reponse": "Faire des travaux décoratifs, comme repeindre les murs ou poser des étagères."
+    },
+    {
+        "question": "Quel mariage est reconnu légalement ?",
+        "options": [
+            "Le mariage civil (célébré à la mairie).",
+            "Le mariage religieux célébré uniquement dans un lieu de culte.",
+            "Le mariage coutumier célébré en famille.",
+            "Une simple promesse écrite signée par les deux conjoints."
+        ],
+        "reponse": "Le mariage civil (célébré à la mairie)."
+    },
+    {
+        "question": "Le stationnement sur une place réservée aux personnes handicapées :",
+        "options": [
+            "Est strictement réservé aux titulaires d'une carte « mobilité inclusion » (CMI).",
+            "Est autorisé pour tout le monde si l'arrêt dure moins de 5 minutes.",
+            "Est autorisé si le conducteur reste assis au volant de sa voiture.",
+            "Est réservé aux véhicules électriques et aux taxis."
+        ],
+        "reponse": "Est strictement réservé aux titulaires d'une carte « mobilité inclusion » (CMI)."
+    },
+    {
+        "question": "Si une machine à laver est cassée, il est possible de :",
+        "options": [
+            "Demander au vendeur de la faire réparer ou de la remplacer (garantie légale de conformité de 2 ans) ou l'apporter en déchetterie.",
+            "La déposer sur le trottoir en bas de chez soi à n'importe quel moment.",
+            "La jeter dans les conteneurs de tri réservés au verre et au papier.",
+            "L'abandonner dans une forêt ou un parc public."
+        ],
+        "reponse": "Demander au vendeur de la faire réparer ou de la remplacer (garantie légale de conformité de 2 ans) ou l'apporter en déchetterie."
+    },
+    {
+        "question": "Dans quel cas faut-il déclarer son enfant au service d'état civil ?",
+        "options": [
+            "Toujours, c'est obligatoire pour tout enfant dans les 5 jours suivant la naissance.",
+            "Uniquement si les deux parents sont mariés civilement.",
+            "Seulement si l'enfant est de nationalité française à la naissance.",
+            "Uniquement lorsqu'il atteint l'âge d'entrer à l'école maternelle."
+        ],
+        "reponse": "Toujours, c'est obligatoire pour tout enfant dans les 5 jours suivant la naissance."
+    },
+    {
+        "question": "Quand faut-il déclarer son enfant au service d'état civil ?",
+        "options": [
+            "Dans les 5 jours suivant la naissance.",
+            "Dans les 3 mois suivant la naissance.",
+            "Dans un délai d'un an après l'accouchement.",
+            "Avant la naissance, au sixième mois de grossesse."
+        ],
+        "reponse": "Dans les 5 jours suivant la naissance."
+    },
+    {
+        "question": "Quel numéro d'urgence permet d'appeler la police ?",
+        "options": [
+            "Le 17 (ou le 112).",
+            "Le 15.",
+            "Le 18.",
+            "Le 115."
+        ],
+        "reponse": "Le 17 (ou le 112)."
+    },
+    {
+        "question": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+        "options": [
+            "Le 15",
+            "Le 17",
+            "Le 18",
+            "Le 119"
+        ],
+        "reponse": "Le 15"
+    },
+    {
+        "question": "Auprès de quelle institution les parents peuvent inscrire leurs enfants à l'école publique ?",
+        "options": [
+            "La mairie",
+            "La préfecture",
+            "La Caisse d'allocations familiales (CAF)",
+            "Le tribunal judiciaire"
+        ],
+        "reponse": "La mairie"
+    },
+    {
+        "question": "En cas de divorce, qui exerce l'autorité parentale ?",
+        "options": [
+            "Les deux parents, sauf décision contraire du juge.",
+            "Uniquement la mère de manière automatique.",
+            "Uniquement le parent qui a le salaire le plus élevé.",
+            "Le maire de la commune où réside l'enfant."
+        ],
+        "reponse": "Les deux parents, sauf décision contraire du juge."
+    },
+    {
+        "question": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+        "options": [
+            "L'aide juridictionnelle",
+            "La carte Vitale",
+            "L'allocation de rentrée scolaire",
+            "Le chèque énergie"
+        ],
+        "reponse": "L'aide juridictionnelle"
+    },
+    {
+        "question": "Qui peut demander le divorce de personnes mariées ?",
+        "options": [
+            "Un ou les deux époux.",
+            "Uniquement les deux époux ensemble s'ils sont d'accord.",
+            "Les parents ou beaux-parents des époux.",
+            "Uniquement le mari."
+        ],
+        "reponse": "Un ou les deux époux."
+    },
+    {
+        "question": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+        "options": [
+            "La Caisse primaire d'assurance maladie (CPAM) / la Sécurité sociale.",
+            "La Caisse d'allocations familiales (CAF).",
+            "France Travail.",
+            "La mairie de son domicile."
+        ],
+        "reponse": "La Caisse primaire d'assurance maladie (CPAM) / la Sécurité sociale."
+    },
+    {
+        "question": "La contraception :",
+        "options": [
+            "Est un choix personnel et un droit garanti à tous, y compris aux mineurs.",
+            "Nécessite l'autorisation écrite du conjoint pour les femmes mariées.",
+            "Est interdite aux personnes mineures de moins de 18 ans.",
+            "N'est jamais remboursée par l'Assurance Maladie."
+        ],
+        "reponse": "Est un choix personnel et un droit garanti à tous, y compris aux mineurs."
+    },
+    {
+        "question": "Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?",
+        "options": [
+            "Le strict respect du secret médical : les professionnels de santé doivent garder secrètes les informations médicales d'un patient.",
+            "L'obligation pour le médecin d'informer l'employeur de la maladie de son salarié.",
+            "L'interdiction pour le patient de connaître le nom de ses propres médicaments.",
+            "La publication des dossiers médicaux en mairie."
+        ],
+        "reponse": "Le strict respect du secret médical : les professionnels de santé doivent garder secrètes les informations médicales d'un patient."
+    },
+    {
+        "question": "À quoi sert la carte Vitale ?",
+        "options": [
+            "À justifier de ses droits à l'Assurance Maladie et à simplifier le remboursement des frais de santé.",
+            "À payer ses achats dans tous les supermarchés comme une carte bancaire.",
+            "À remplacer le passeport pour voyager en dehors de l'Union européenne.",
+            "À voter lors des élections municipales et présidentielles."
+        ],
+        "reponse": "À justifier de ses droits à l'Assurance Maladie et à simplifier le remboursement des frais de santé."
+    },
+    {
+        "question": "À quoi sert une mutuelle santé ?",
+        "options": [
+            "À compléter les remboursements de l'Assurance Maladie (Sécurité sociale).",
+            "À payer les impôts locaux à la place du citoyen.",
+            "À assurer sa voiture contre le vol et les accidents de la route.",
+            "À verser les allocations chômage en cas de perte d'emploi."
+        ],
+        "reponse": "À compléter les remboursements de l'Assurance Maladie (Sécurité sociale)."
+    },
+    {
+        "question": "Qu'est-ce que le tiers payant ?",
+        "options": [
+            "Le droit pour le patient de ne pas avancer la part des frais remboursée par l'Assurance Maladie.",
+            "Une taxe supplémentaire de 30 % sur le prix des médicaments.",
+            "L'obligation de faire payer ses frais médicaux par un membre de sa famille.",
+            "Un crédit bancaire destiné à financer des études de médecine."
+        ],
+        "reponse": "Le droit pour le patient de ne pas avancer la part des frais remboursée par l'Assurance Maladie."
+    },
+    {
+        "question": "L'inscription à l'Assurance maladie est :",
+        "options": [
+            "Obligatoire pour tous les résidents réguliers en France.",
+            "Facultative, chacun peut choisir de ne pas cotiser.",
+            "Réservée uniquement aux personnes âgées de plus de 60 ans.",
+            "Interdite aux personnes qui ne travaillent pas."
+        ],
+        "reponse": "Obligatoire pour tous les résidents réguliers en France."
+    },
+    {
+        "question": "L'avortement est-il possible en France ?",
+        "options": [
+            "Oui, l'IVG est une liberté garantie par la Constitution (légale jusqu'à 14 semaines de grossesse).",
+            "Non, l'avortement est un délit puni de prison en France.",
+            "Oui, mais uniquement avec l'accord écrit du père ou du mari.",
+            "Oui, mais seulement si la vie de la mère est en danger immédiat."
+        ],
+        "reponse": "Oui, l'IVG est une liberté garantie par la Constitution (légale jusqu'à 14 semaines de grossesse)."
+    },
+    {
+        "question": "Travailler sans être déclaré est :",
+        "options": [
+            "Une infraction pénale appelée travail dissimulé (un délit puni par la loi).",
+            "Tout à fait légal si l'employeur et le salarié sont d'accord.",
+            "Autorisé pendant la première année d'embauche.",
+            "Permis pour tous les emplois payés en espèces."
+        ],
+        "reponse": "Une infraction pénale appelée travail dissimulé (un délit puni par la loi)."
+    },
+    {
+        "question": "Qu'est-ce que le SMIC ?",
+        "options": [
+            "Le Salaire Minimum Interprofessionnel de Croissance (salaire horaire minimum légal en France).",
+            "Le syndicat national des médecins et infirmiers.",
+            "Le service municipal chargé de l'inscription dans les écoles.",
+            "Le montant maximum qu'un cadre peut gagner dans une entreprise."
+        ],
+        "reponse": "Le Salaire Minimum Interprofessionnel de Croissance (salaire horaire minimum légal en France)."
+    },
+    {
+        "question": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+        "options": [
+            "S'inscrire à France Travail",
+            "S'inscrire à la Caisse d'allocations familiales (CAF)",
+            "Porter plainte au conseil de prud'hommes",
+            "Demander un extrait d'acte de naissance à la mairie"
+        ],
+        "reponse": "S'inscrire à France Travail"
+    },
+    {
+        "question": "Quelle est la durée légale du temps de travail par semaine ?",
+        "options": [
+            "35 heures",
+            "39 heures",
+            "48 heures",
+            "25 heures"
+        ],
+        "reponse": "35 heures"
+    },
+    {
+        "question": "Qui peut demander un congé parental d'éducation ?",
+        "options": [
+            "Tout salarié, le père comme la mère, après la naissance ou l'adoption d'un enfant.",
+            "Uniquement la mère de l'enfant.",
+            "Uniquement les parents ayant au moins quatre enfants.",
+            "Seulement les fonctionnaires travaillant dans les mairies."
+        ],
+        "reponse": "Tout salarié, le père comme la mère, après la naissance ou l'adoption d'un enfant."
+    },
+    {
+        "question": "Une personne étrangère, en situation régulière, peut créer son entreprise :",
+        "options": [
+            "Oui, il n'est pas nécessaire d'être français (sous réserve d'avoir un titre de séjour qui l'autorise).",
+            "Non, la création d'entreprise est réservée aux citoyens français de naissance.",
+            "Oui, mais uniquement en s'associant à 50 % avec un citoyen français.",
+            "Non, sauf si elle verse une caution de 100 000 euros à la préfecture."
+        ],
+        "reponse": "Oui, il n'est pas nécessaire d'être français (sous réserve d'avoir un titre de séjour qui l'autorise)."
+    },
+    {
+        "question": "Une femme peut-elle créer son entreprise ?",
+        "options": [
+            "Oui, sans aucune restriction.",
+            "Oui, mais seulement avec l'autorisation écrite de son mari.",
+            "Non, sauf dans les secteurs de la coiffure et de la garde d'enfants.",
+            "Oui, à condition d'avoir plus de 30 ans."
+        ],
+        "reponse": "Oui, sans aucune restriction."
+    },
+    {
+        "question": "Quels sont les textes qui définissent les règles au travail ?",
+        "options": [
+            "Le Code du travail, les conventions collectives et le règlement intérieur.",
+            "Le Code de la route et le Code de l'urbanisme.",
+            "La Charte de la laïcité à l'école.",
+            "Le livret de famille de l'employeur."
+        ],
+        "reponse": "Le Code du travail, les conventions collectives et le règlement intérieur."
+    },
+    {
+        "question": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+        "options": [
+            "Les litiges (conflits) individuels entre un employeur et un salarié liés au contrat de travail.",
+            "Les divorces et la garde des enfants.",
+            "Les crimes graves comme les meurtres et les braquages.",
+            "Les contestations d'élections municipales."
+        ],
+        "reponse": "Les litiges (conflits) individuels entre un employeur et un salarié liés au contrat de travail."
+    },
+    {
+        "question": "Qui a le droit de se syndiquer ?",
+        "options": [
+            "Tous les travailleurs (salariés du privé et agents publics).",
+            "Uniquement les salariés ayant plus de 10 ans d'ancienneté.",
+            "Seulement les directeurs d'entreprise.",
+            "Uniquement les travailleurs de nationalité française."
+        ],
+        "reponse": "Tous les travailleurs (salariés du privé et agents publics)."
+    },
+    {
+        "question": "Est-il possible de licencier une femme enceinte ou en congé maternité, en raison de sa grossesse ?",
+        "options": [
+            "Non, cela est strictement interdit par la loi (c'est une discrimination illégale).",
+            "Oui, si l'employeur estime qu'elle sera trop longtemps absente.",
+            "Oui, dans les entreprises de moins de 20 salariés.",
+            "Oui, à condition de lui verser un mois de salaire supplémentaire."
+        ],
+        "reponse": "Non, cela est strictement interdit par la loi (c'est une discrimination illégale)."
+    },
+    {
+        "question": "L'instruction des enfants est obligatoire de :",
+        "options": [
+            "3 ans à 16 ans.",
+            "6 ans à 16 ans.",
+            "3 ans à 18 ans.",
+            "7 ans à 14 ans."
+        ],
+        "reponse": "3 ans à 16 ans."
+    },
+    {
+        "question": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+        "options": [
+            "6 mois de prison et 7 500 euros d'amende.",
+            "Une simple amende de 35 euros sans autre poursuite.",
+            "Une retenue de 2 heures le samedi matin à l'école.",
+            "Aucune sanction, l'école est un choix libre des parents."
+        ],
+        "reponse": "6 mois de prison et 7 500 euros d'amende."
+    },
+    {
+        "question": "Quelle est la définition de l'autorité parentale ?",
+        "options": [
+            "L'ensemble des droits et devoirs des parents envers leurs enfants (protéger, nourrir, éduquer) dans l'intérêt de l'enfant.",
+            "Le droit absolu de punir physiquement ses enfants sans limite.",
+            "Le pouvoir réservé uniquement au père sur toute la famille.",
+            "La tutelle exercée par les professeurs d'école sur les élèves."
+        ],
+        "reponse": "L'ensemble des droits et devoirs des parents envers leurs enfants (protéger, nourrir, éduquer) dans l'intérêt de l'enfant."
+    },
+    {
+        "question": "Quel motif d'absence est accepté par l'école ?",
+        "options": [
+            "La maladie de l'enfant, une réunion solennelle de famille ou un empêchement lié aux transports.",
+            "Un départ anticipé en vacances pour payer les billets d'avion moins cher.",
+            "Le refus d'assister à un cours de sport mixte ou de sciences.",
+            "La garde d'un petit frère ou d'une petite sœur à la maison."
+        ],
+        "reponse": "La maladie de l'enfant, une réunion solennelle de famille ou un empêchement lié aux transports."
+    },
+    {
+        "question": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+        "options": [
+            "16 ans",
+            "18 ans",
+            "14 ans",
+            "21 ans"
+        ],
+        "reponse": "16 ans"
+    },
+    {
+        "question": "À quel âge commence l'instruction obligatoire des enfants ?",
+        "options": [
+            "À 3 ans.",
+            "À 6 ans.",
+            "À 5 ans.",
+            "À 7 ans."
+        ],
+        "reponse": "À 3 ans."
+    },
+    {
+        "question": "Comment s'appellent les établissements scolaires que les élèves intègrent après l'école élémentaire ?",
+        "options": [
+            "Le collège",
+            "Le lycée",
+            "L'école maternelle",
+            "L'université"
+        ],
+        "reponse": "Le collège"
+    },
+    {
+        "question": "En tant que parent d'élève, il est possible de :",
+        "options": [
+            "Voter ou se porter candidat aux élections des représentants de parents d'élèves et rencontrer les professeurs.",
+            "Choisir et modifier soi-même le programme scolaire enseigné en classe.",
+            "Interdire à son enfant de suivre certains enseignements obligatoires.",
+            "Entrer dans la salle de classe à tout moment pendant les cours."
+        ],
+        "reponse": "Voter ou se porter candidat aux élections des représentants de parents d'élèves et rencontrer les professeurs."
+    },
+    {
+        "question": "Quelle instruction est prévue pour les enfants qui ne parlent pas français ?",
+        "options": [
+            "Ils sont accueillis à l'école comme les autres enfants et bénéficient d'un programme spécifique pour apprendre le français.",
+            "Ils n'ont pas le droit d'aller à l'école tant qu'ils ne parlent pas couramment français.",
+            "Leurs parents doivent payer une école privée spécialisée à leurs frais.",
+            "Ils sont dispensés d'instruction obligatoire jusqu'à leurs 16 ans."
+        ],
+        "reponse": "Ils sont accueillis à l'école comme les autres enfants et bénéficient d'un programme spécifique pour apprendre le français."
+    },
+    {
+        "question": "S'agissant de l'accueil des enfants en situation de handicap à l'école, laquelle des propositions est vraie ?",
+        "options": [
+            "L'école s'adapte pour accueillir tous les enfants en situation de handicap (École inclusive), parfois avec l'aide d'un accompagnant (AESH).",
+            "Les enfants en situation de handicap sont interdits dans les écoles publiques ordinaires.",
+            "Les parents doivent obligatoirement leur faire l'école à la maison sans aide de l'État.",
+            "Ils ne peuvent aller à l'école qu'à partir de l'âge de 12 ans."
+        ],
+        "reponse": "L'école s'adapte pour accueillir tous les enfants en situation de handicap (École inclusive), parfois avec l'aide d'un accompagnant (AESH)."
+    },
+    {
+        "question": "Depuis le 1er juillet 2021, quelle est la durée du congé paternité ?",
+        "options": [
+            "28 jours",
+            "11 jours",
+            "3 jours",
+            "6 mois"
+        ],
+        "reponse": "28 jours"
+    },
+    {
+        "question": "Est-ce possible de punir physiquement ses enfants ?",
+        "options": [
+            "Non, la loi française interdit toute violence physique ou psychologique envers les enfants.",
+            "Oui, les fessées et les gifles sont autorisées par le Code civil pour éduquer l'enfant.",
+            "Oui, tant que l'enfant a moins de 12 ans.",
+            "Oui, si les deux parents sont d'accord sur la punition."
+        ],
+        "reponse": "Non, la loi française interdit toute violence physique ou psychologique envers les enfants."
+    }
+]

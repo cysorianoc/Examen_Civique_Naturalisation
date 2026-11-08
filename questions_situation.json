@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Lors d'un entretien d'embauche, le recruteur vous demande quelle est votre religion et si vous comptez avoir des enfants prochainement. Comment réagir au regard de la loi ?",
+        "options": [
+            "Ces questions sont interdites par le Code du travail car elles relèvent de la vie privée et sont discriminatoires ; seul votre parcours professionnel et votre autorisation de travail peuvent être vérifiés.",
+            "Vous avez l'obligation légale de répondre sincèrement à toutes les questions personnelles du recruteur.",
+            "L'employeur a le droit de poser ces questions uniquement si l'entreprise compte plus de 50 salariés.",
+            "C'est légal uniquement pour les candidatures féminines."
+        ],
+        "reponse": "Ces questions sont interdites par le Code du travail car elles relèvent de la vie privée et sont discriminatoires ; seul votre parcours professionnel et votre autorisation de travail peuvent être vérifiés."
+    },
+    {
+        "question": "Vous travaillez en France et vos impôts sont déjà prélevés directement sur votre fiche de paie (prélèvement à la source). Devez-vous quand même remplir une déclaration de revenus au printemps ?",
+        "options": [
+            "Oui, la déclaration annuelle des revenus reste obligatoire pour tous les contribuables résidant en France, même non-imposables.",
+            "Non, le prélèvement à la source dispense définitivement de toute déclaration fiscale.",
+            "Seulement si vous avez changé d'employeur au cours de l'année.",
+            "Non, seuls les travailleurs indépendants doivent déclarer leurs revenus."
+        ],
+        "reponse": "Oui, la déclaration annuelle des revenus reste obligatoire pour tous les contribuables résidant en France, même non-imposables."
+    },
+    {
+        "question": "Vous souhaitez créer une association sportive de quartier avec vos voisins pour organiser des tournois gratuits le week-end. Quelle démarche devez-vous effectuer ?",
+        "options": [
+            "Rédiger les statuts et déclarer simplement l'association en préfecture (liberté d'association de la loi du 1er juillet 1901).",
+            "Demander une autorisation préalable au Président de la République.",
+            "Verser un capital minimum de 10 000 euros à la mairie.",
+            "Attendre 10 ans après votre naturalisation pour avoir le droit de créer une association."
+        ],
+        "reponse": "Rédiger les statuts et déclarer simplement l'association en préfecture (liberté d'association de la loi du 1er juillet 1901)."
+    },
+    {
+        "question": "Sur un réseau social, un internaute publie des messages appelant à la violence et à la haine contre un groupe de personnes en raison de leur origine. Est-ce protégé par la liberté d'expression ?",
+        "options": [
+            "Non, la liberté d'expression est encadrée par la loi : l'incitation à la haine, l'injure et la diffamation sont des délits punis par la justice.",
+            "Oui, sur internet la liberté d'expression est totale et absolue.",
+            "Oui, tant que la personne utilise un pseudonyme anonyme.",
+            "C'est interdit uniquement si les messages visent des personnalités politiques."
+        ],
+        "reponse": "Non, la liberté d'expression est encadrée par la loi : l'incitation à la haine, l'injure et la diffamation sont des délits punis par la justice."
+    },
+    {
+        "question": "Lors d'une manifestation dans la rue, un participant brûle publiquement un drapeau tricolore français. Que risque-t-il ?",
+        "options": [
+            "Des sanctions pénales (jusqu'à 7 500 € d'amende et 6 mois de prison en réunion), car l'outrage au drapeau national est interdit par la loi.",
+            "Rien, car brûler un drapeau fait partie de la liberté syndicale et politique.",
+            "Une simple obligation de racheter un drapeau neuf à la mairie.",
+            "Rien s'il prouve qu'il a acheté le drapeau avec son propre argent."
+        ],
+        "reponse": "Des sanctions pénales (jusqu'à 7 500 € d'amende et 6 mois de prison en réunion), car l'outrage au drapeau national est interdit par la loi."
+    },
+    {
+        "question": "Vous vous rendez à la mairie de votre commune pour renouveler votre carte nationale d'identité. Vous portez un signe religieux qui ne couvre pas votre visage. L'agent au guichet peut-il refuser de vous recevoir ?",
+        "options": [
+            "Non, la neutralité religieuse s'impose aux agents des services publics, mais les usagers sont libres de porter un signe religieux dans le respect de l'ordre public.",
+            "Oui, tout signe religieux est strictement interdit aux usagers dans une mairie.",
+            "Oui, l'agent a le droit de choisir les usagers selon ses propres convictions.",
+            "Non, mais vous devez payer une taxe supplémentaire au guichet."
+        ],
+        "reponse": "Non, la neutralité religieuse s'impose aux agents des services publics, mais les usagers sont libres de porter un signe religieux dans le respect de l'ordre public."
+    },
+    {
+        "question": "Votre fille est élève dans un collège public. Peut-elle porter un petit pendentif religieux discret sous ses vêtements ?",
+        "options": [
+            "Oui, la loi du 15 mars 2004 interdit les signes religieux ostensibles à l'école publique, mais autorise les signes discrets.",
+            "Non, même un bijou caché sous les vêtements est passible d'exclusion définitive.",
+            "Oui, et elle peut également porter des signes religieux très visibles si les parents signent une autorisation.",
+            "Seuls les professeurs ont le droit de porter des signes religieux visibles en classe."
+        ],
+        "reponse": "Oui, la loi du 15 mars 2004 interdit les signes religieux ostensibles à l'école publique, mais autorise les signes discrets."
+    },
+    {
+        "question": "Votre grand-mère vient d'obtenir la nationalité française mais elle n'a pas d'ordinateur ni d'accès à internet. Comment peut-elle s'inscrire sur les listes électorales ?",
+        "options": [
+            "En se rendant directement au guichet de la mairie de son domicile (ou par courrier) avec un justificatif d'identité et de domicile.",
+            "En allant au commissariat de police de son quartier.",
+            "Elle ne peut pas voter car l'inscription se fait uniquement sur internet.",
+            "En appelant le 15 ou le 112 avant le jour du scrutin."
+        ],
+        "reponse": "En se rendant directement au guichet de la mairie de son domicile (ou par courrier) avec un justificatif d'identité et de domicile."
+    },
+    {
+        "question": "Votre voisin est citoyen espagnol (membre de l'Union européenne) et réside dans votre commune en France. À quelles élections peut-il voter en France ?",
+        "options": [
+            "Aux élections municipales et aux élections européennes.",
+            "À l'élection présidentielle et aux élections législatives.",
+            "À toutes les élections françaises sans aucune exception.",
+            "À aucune élection, seuls les citoyens français peuvent voter en France."
+        ],
+        "reponse": "Aux élections municipales et aux élections européennes."
+    },
+    {
+        "question": "Vous êtes témoin d'un vol à l'arraché dans la rue et la police interpelle le suspect. Qui a le pouvoir de le condamner à une peine de prison ou d'amende ?",
+        "options": [
+            "Un juge (le tribunal correctionnel / le pouvoir judiciaire) après un procès équitable.",
+            "Les policiers directement au commissariat dès son arrestation.",
+            "Le maire de la commune où le vol a été commis.",
+            "Le préfet du département."
+        ],
+        "reponse": "Un juge (le tribunal correctionnel / le pouvoir judiciaire) après un procès équitable."
+    },
+    {
+        "question": "Vous estimez avoir été victime d'une discrimination à l'embauche ou d'un abus de la part d'une administration publique. Quelle autorité indépendante pouvez-vous saisir gratuitement ?",
+        "options": [
+            "Le Défenseur des droits.",
+            "Le Président du Sénat.",
+            "La Banque centrale européenne.",
+            "L'Office français des forêts."
+        ],
+        "reponse": "Le Défenseur des droits."
+    },
+    {
+        "question": "Une personne de votre entourage est interpellée par la police et placée en garde à vue. Quels sont ses droits immédiats ?",
+        "options": [
+            "Être assistée par un avocat, garder le silence, faire prévenir un proche et demander à être examinée par un médecin.",
+            "Exiger de rentrer chez elle immédiatement sans répondre aux policiers.",
+            "Donner un faux nom pour éviter d'avoir un casier judiciaire.",
+            "Téléphoner librement à tous ses amis pendant toute la durée de l'audition."
+        ],
+        "reponse": "Être assistée par un avocat, garder le silence, faire prévenir un proche et demander à être examinée par un médecin."
+    },
+    {
+        "question": "Votre fils de 13 ans veut créer seul un compte sur un réseau social (Instagram, TikTok). Que prévoit la loi française sur la majorité numérique ?",
+        "options": [
+            "La majorité numérique est fixée à 15 ans : avant cet âge, l'accord d'au moins un des parents est obligatoire.",
+            "Il peut s'inscrire librement dès l'âge de 10 ans sans l'avis de ses parents.",
+            "Les réseaux sociaux sont formellement interdits à tous les mineurs de moins de 18 ans.",
+            "Il doit demander une autorisation écrite au maire de sa commune."
+        ],
+        "reponse": "La majorité numérique est fixée à 15 ans : avant cet âge, l'accord d'au moins un des parents est obligatoire."
+    },
+    {
+        "question": "Vous êtes en vacances d'été en famille sur une plage publique ou dans un parc municipal. Pouvez-vous y fumer une cigarette ?",
+        "options": [
+            "Non, depuis juillet 2025, il est interdit de fumer sur les plages, dans les parcs et jardins publics, aux abribus et aux abords des écoles.",
+            "Oui, il est autorisé de fumer partout en plein air sans aucune restriction.",
+            "Oui, à condition de jeter son mégot dans le sable ou dans l'eau.",
+            "C'est interdit uniquement aux personnes mineures."
+        ],
+        "reponse": "Non, depuis juillet 2025, il est interdit de fumer sur les plages, dans les parcs et jardins publics, aux abribus et aux abords des écoles."
+    },
+    {
+        "question": "Un ami souhaite conduire une moto de 125 cm³ sur la route alors qu'il n'a pas le permis correspondant. Que risque-t-il en cas de contrôle ?",
+        "options": [
+            "Il commet un délit grave passible d'une peine de prison, d'une forte amende (jusqu'à 15 000 €) et de la confiscation du véhicule.",
+            "Une simple contravention de 11 euros sans autre poursuite.",
+            "Rien s'il roule prudemment et porte un casque homologué.",
+            "C'est autorisé pour les trajets entre le domicile et le travail."
+        ],
+        "reponse": "Il commet un délit grave passible d'une peine de prison, d'une forte amende (jusqu'à 15 000 €) et de la confiscation du véhicule."
+    },
+    {
+        "question": "En marchant dans la rue, vous voyez une personne s'effondrer, victime d'un grave malaise cardiaque. Quelle est votre obligation légale ?",
+        "options": [
+            "Vous avez l'obligation légale de lui porter secours, au minimum en appelant immédiatement les services d'urgence (15, 18 ou 112).",
+            "Vous pouvez continuer votre chemin car seuls les médecins ont le devoir d'intervenir.",
+            "Filmer la scène avec votre téléphone pour prévenir les internautes.",
+            "Attendre qu'un policier passe dans la rue."
+        ],
+        "reponse": "Vous avez l'obligation légale de lui porter secours, au minimum en appelant immédiatement les secours (15, 18 ou 112)."
+    },
+    {
+        "question": "Vous recevez une convocation officielle vous informant que vous avez été tiré au sort sur les listes électorales pour être juré d'assises. Pouvez-vous refuser parce que vous n'avez pas envie de juger ?",
+        "options": [
+            "Non, siéger comme juré d'assises est un devoir civique obligatoire (sauf motif grave reconnu valable), sous peine de 3 750 € d'amende.",
+            "Oui, c'est une proposition purement facultative que l'on peut décliner par téléphone.",
+            "Oui, il suffit de demander à un voisin d'y aller à votre place.",
+            "Non, mais vous devrez payer vous-même les frais du tribunal."
+        ],
+        "reponse": "Non, siéger comme juré d'assises est un devoir civique obligatoire (sauf motif grave reconnu valable), sous peine de 3 750 € d'amende."
+    },
+    {
+        "question": "Dans un supermarché, un jeune de 16 ans souhaite acheter une bouteille de bière ou de vin. Le caissier doit-il accepter ?",
+        "options": [
+            "Non, la vente de tout type d'alcool est strictement interdite aux mineurs de moins de 18 ans en France.",
+            "Oui, car la bière et le vin sont autorisés dès l'âge de 16 ans.",
+            "Oui, si le mineur paie par carte bancaire.",
+            "Oui, pendant les jours fériés et les week-ends."
+        ],
+        "reponse": "Non, la vente de tout type d'alcool est strictement interdite aux mineurs de moins de 18 ans en France."
+    },
+    {
+        "question": "Vous venez de devenir citoyen français et souhaitez demander une carte nationale d'identité (CNI) pour votre bébé de 6 mois, également français. Est-ce possible ?",
+        "options": [
+            "Oui, il n'y a aucune condition d'âge : toute personne de nationalité française peut obtenir une carte d'identité.",
+            "Non, il faut obligatoirement attendre la majorité civile à 18 ans.",
+            "Non, la carte d'identité n'est délivrée qu'à partir de l'entrée au collège (11 ans).",
+            "Seulement si l'enfant voyage seul à l'étranger."
+        ],
+        "reponse": "Oui, il n'y a aucune condition d'âge : toute personne de nationalité française peut obtenir une carte d'identité."
+    },
+    {
+        "question": "Un individu est condamné par un juge à une privation de ses droits civils et politiques pendant 5 ans pour corruption. Quelle est la conséquence concrète ?",
+        "options": [
+            "Pendant 5 ans, il ne peut plus voter ni se présenter comme candidat aux élections.",
+            "Il n'a plus le droit de se soigner ni de faire ses courses pendant 5 ans.",
+            "Il est interdit de circuler en train ou en bus sur tout le territoire.",
+            "Son mariage civil est automatiquement annulé."
+        ],
+        "reponse": "Pendant 5 ans, il ne peut plus voter ni se présenter comme candidat aux élections."
+    },
+    {
+        "question": "Vous habitez à Nanterre, mais votre enfant vient de naître dans une maternité située à Paris. Où et quand devez-vous déclarer sa naissance ?",
+        "options": [
+            "À la mairie du lieu de naissance (donc Paris) dans les 5 jours suivant l'accouchement.",
+            "À la préfecture de votre domicile dans un délai de 3 mois.",
+            "Uniquement auprès de votre employeur dans les 15 jours.",
+            "La déclaration n'est pas obligatoire si l'hôpital vous remet un carnet de santé."
+        ],
+        "reponse": "À la mairie du lieu de naissance (donc Paris) dans les 5 jours suivant l'accouchement."
+    },
+    {
+        "question": "Vous êtes locataire de votre appartement et vous souhaitez repeindre les murs du salon et poser des étagères. Devez-vous demander l'autorisation écrite du propriétaire ?",
+        "options": [
+            "Non, le locataire peut réaliser librement des aménagements et travaux décoratifs sans l'accord du propriétaire (contrairement au fait de casser un mur ou de sous-louer).",
+            "Oui, il est interdit de planter un clou ou de peindre un mur sans un acte notarié.",
+            "Oui, et vous devez également demander une autorisation au maire.",
+            "Non, et vous pouvez aussi abattre les murs porteurs sans prévenir personne."
+        ],
+        "reponse": "Non, le locataire peut réaliser librement des aménagements et travaux décoratifs sans l'accord du propriétaire (contrairement au fait de casser un mur ou de sous-louer)."
+    },
+    {
+        "question": "Un couple souhaite organiser une cérémonie de mariage religieux. Quelle règle légale s'applique en France ?",
+        "options": [
+            "Seul le mariage civil célébré à la mairie est reconnu légalement par l'État, et il doit obligatoirement précéder toute cérémonie religieuse.",
+            "Le mariage religieux suffit pour être reconnu marié par l'administration et les impôts.",
+            "Il est interdit de se marier à la mairie si l'on prévoit une fête religieuse.",
+            "Le maire célèbre à la fois le mariage civil et le mariage religieux."
+        ],
+        "reponse": "Seul le mariage civil célébré à la mairie est reconnu légalement par l'État, et il doit obligatoirement précéder toute cérémonie religieuse."
+    },
+    {
+        "question": "Sur le parking d'un supermarché, toutes les places sont occupées sauf une place réservée aux personnes handicapées. Vous n'avez pas de carte mobilité inclusion (CMI), mais vous en avez pour 2 minutes. Que faites-vous ?",
+        "options": [
+            "Vous ne vous y garez pas : le stationnement sur ces places est strictement réservé aux titulaires de la carte CMI, sous peine d'une amende de 135 €.",
+            "Vous pouvez vous y garer si vous laissez vos feux de détresse allumés.",
+            "Vous pouvez vous y garer si un passager reste dans la voiture.",
+            "C'est autorisé entre midi et 14 heures."
+        ],
+        "reponse": "Vous ne vous y garez pas : le stationnement sur ces places est strictement réservé aux titulaires de la carte CMI, sous peine d'une amende de 135 €."
+    },
+    {
+        "question": "Vous avez acheté une machine à laver neuve dans un magasin il y a un an, et elle tombe soudainement en panne. Quel recours avez-vous ?",
+        "options": [
+            "Vous pouvez demander au vendeur de la réparer ou de la remplacer gratuitement grâce à la garantie légale de conformité de 2 ans.",
+            "Vous n'avez aucun recours après 24 heures d'utilisation.",
+            "Vous devez l'abandonner sur le trottoir et en racheter une autre.",
+            "C'est la mairie de votre commune qui doit vous rembourser l'appareil."
+        ],
+        "reponse": "Vous pouvez demander au vendeur de la réparer ou de la remplacer gratuitement grâce à la garantie légale de conformité de 2 ans."
+    },
+    {
+        "question": "Un couple marié traverse une crise importante. Le mari souhaite divorcer, mais son épouse refuse catégoriquement. Le divorce est-il possible ?",
+        "options": [
+            "Oui, le divorce peut être demandé par les deux époux ensemble ou par un seul des deux époux, même si l'autre refuse.",
+            "Non, en France il est impossible de divorcer sans l'accord écrit des deux conjoints et de leurs parents.",
+            "Non, le mariage civil est indissoluble à vie.",
+            "Oui, mais uniquement si le couple n'a pas d'enfants."
+        ],
+        "reponse": "Oui, le divorce peut être demandé par les deux époux ensemble ou par un seul des deux époux, même si l'autre refuse."
+    },
+    {
+        "question": "Vous devez vous défendre devant un tribunal mais vos revenus sont très modestes et vous n'avez pas les moyens de payer un avocat. Quel dispositif peut vous aider ?",
+        "options": [
+            "L'aide juridictionnelle, qui prend en charge tout ou partie des frais d'avocat et de justice.",
+            "Le tiers payant médical de la carte Vitale.",
+            "L'allocation de rentrée scolaire.",
+            "Il est impossible d'avoir un avocat si l'on n'a pas d'économies."
+        ],
+        "reponse": "L'aide juridictionnelle, qui prend en charge tout ou partie des frais d'avocat et de justice."
+    },
+    {
+        "question": "Après une consultation chez le médecin, l'Assurance Maladie (CPAM) vous rembourse 70 % du tarif de base. Qui peut vous rembourser les 30 % restants (le ticket modérateur) ?",
+        "options": [
+            "Votre mutuelle (complémentaire santé).",
+            "France Travail.",
+            "Le conseil de prud'hommes.",
+            "Le ministère de l'Intérieur."
+        ],
+        "reponse": "Votre mutuelle (complémentaire santé)."
+    },
+    {
+        "question": "À la pharmacie, vous présentez votre ordonnance, votre carte Vitale et votre carte de mutuelle. Vous n'avancez pas les frais remboursés par l'Assurance Maladie. Comment s'appelle ce système ?",
+        "options": [
+            "Le tiers payant.",
+            "Le prélèvement à la source.",
+            "L'aide juridictionnelle.",
+            "Le travail dissimulé."
+        ],
+        "reponse": "Le tiers payant."
+    },
+    {
+        "question": "Une jeune fille de 17 ans souhaite obtenir une contraception (pilule, stérilet) mais craint que le médecin n'en informe ses parents. Que prévoit la loi ?",
+        "options": [
+            "La contraception est un droit personnel, gratuit pour les moins de 26 ans et protégé par le secret médical, y compris pour les mineurs sans l'accord des parents.",
+            "Elle doit obligatoirement présenter une autorisation signée par ses deux parents.",
+            "La contraception est réservée aux femmes mariées de plus de 25 ans.",
+            "Le médecin a l'obligation d'envoyer un courrier au domicile des parents."
+        ],
+        "reponse": "La contraception est un droit personnel, gratuit pour les moins de 26 ans et protégé par le secret médical, y compris pour les mineurs sans l'accord des parents."
+    },
+    {
+        "question": "Une femme enceinte de 8 semaines souhaite recourir à une interruption volontaire de grossesse (IVG / avortement), mais son conjoint s'y oppose. Que dit le droit français ?",
+        "options": [
+            "L'IVG est une liberté garantie à la femme par la Constitution (légale jusqu'à 14 semaines de grossesse) ; elle n'a pas besoin de l'accord de son conjoint.",
+            "L'avortement est interdit si le père de l'enfant refuse de signer le dossier médical.",
+            "L'IVG n'est autorisée que si un juge du tribunal correctionnel donne son accord.",
+            "L'avortement est illégal en France depuis 2024."
+        ],
+        "reponse": "L'IVG est une liberté garantie à la femme par la Constitution (légale jusqu'à 14 semaines de grossesse) ; elle n'a pas besoin de l'accord de son conjoint."
+    },
+    {
+        "question": "Un restaurateur vous propose de travailler à temps plein en cuisine pour un salaire inférieur au SMIC et payé uniquement en espèces sans fiche de paie. Que dit la loi ?",
+        "options": [
+            "C'est totalement illégal : il est interdit de payer un salarié en dessous du SMIC et le travail non déclaré (travail dissimulé) est un délit pénal.",
+            "C'est légal si vous signez une attestation acceptant un salaire inférieur au SMIC.",
+            "C'est autorisé dans le secteur de la restauration et du bâtiment.",
+            "C'est légal pendant les six premiers mois d'activité."
+        ],
+        "reponse": "C'est totalement illégal : il est interdit de payer un salarié en dessous du SMIC et le travail non déclaré (travail dissimulé) est un délit pénal."
+    },
+    {
+        "question": "Vous êtes salarié et votre employeur vous annonce votre licenciement parce que vous êtes enceinte. Est-ce légal ?",
+        "options": [
+            "Non, le Code du travail protège les femmes enceintes et en congé maternité : licencier une salariée en raison de sa grossesse est une discrimination grave interdite par la loi.",
+            "Oui, l'employeur est libre de licencier toute salariée enceinte s'il la remplace immédiatement.",
+            "C'est légal uniquement si la salariée a moins de deux ans d'ancienneté.",
+            "Oui, si l'entreprise connaît une baisse d'activité pendant l'été."
+        ],
+        "reponse": "Non, le Code du travail protège les femmes enceintes et en congé maternité : licencier une salariée en raison de sa grossesse est une discrimination grave interdite par la loi."
+    },
+    {
+        "question": "Vous venez de devenir père d'un enfant. À combien de jours de congé paternité (congé de naissance inclus) avez-vous droit depuis la réforme de juillet 2021 ?",
+        "options": [
+            "28 jours.",
+            "3 jours seulement.",
+            "11 jours.",
+            "Aucun, le congé est réservé uniquement à la mère."
+        ],
+        "reponse": "28 jours."
+    },
+    {
+        "question": "Après la naissance de votre enfant, vous (le père salarié) souhaitez suspendre ou réduire votre activité professionnelle pendant un an pour vous occuper de votre bébé. En avez-vous le droit ?",
+        "options": [
+            "Oui, le congé parental d'éducation est un droit ouvert à tout salarié, au père comme à la mère.",
+            "Non, le congé parental d'éducation est strictement réservé aux mères.",
+            "Seulement si votre employeur est d'accord et que vous avez plus de 50 ans.",
+            "Non, il est interdit à un homme de s'arrêter de travailler pour élever son enfant."
+        ],
+        "reponse": "Oui, le congé parental d'éducation est un droit ouvert à tout salarié, au père comme à la mère."
+    },
+    {
+        "question": "Votre fils vient de terminer son année de CM2 à l'école élémentaire. Dans quel établissement scolaire va-t-il entrer en septembre et quelle collectivité gère ce bâtiment ?",
+        "options": [
+            "Il entre au collège, dont les bâtiments et la cantine sont gérés par le Département.",
+            "Il entre au lycée, géré par la Mairie.",
+            "Il entre à l'université, gérée par le Préfet.",
+            "Il reste à l'école maternelle jusqu'à 16 ans."
+        ],
+        "reponse": "Il entre au collège, dont les bâtiments et la cantine sont gérés par le Département."
+    },
+    {
+        "question": "Votre jeune frère a 16 ans et décide d'arrêter le lycée. Est-il libre de rester chez lui sans rien faire jusqu'à ses 18 ans ?",
+        "options": [
+            "Non, si l'instruction à l'école est obligatoire de 3 à 16 ans, il existe ensuite une obligation de formation de 16 à 18 ans (études, apprentissage, emploi ou parcours d'insertion).",
+            "Oui, dès 16 ans aucune règle ne s'applique aux mineurs.",
+            "Non, l'école en classe est strictement obligatoire jusqu'à 25 ans.",
+            "Il doit obligatoirement partir faire deux ans de service militaire."
+        ],
+        "reponse": "Non, si l'instruction à l'école est obligatoire de 3 à 16 ans, il existe ensuite une obligation de formation de 16 à 18 ans (études, apprentissage, emploi ou parcours d'insertion)."
+    },
+    {
+        "question": "Une famille étrangère vient de s'installer légalement dans votre quartier avec un enfant de 7 ans qui ne parle pas encore un mot de français. Que doit faire l'école publique ?",
+        "options": [
+            "L'accueillir comme tous les autres enfants et lui proposer un dispositif spécifique pour apprendre le français tout en suivant sa scolarité.",
+            "Refuser son inscription tant qu'il n'a pas obtenu un diplôme de langue française.",
+            "Obliger ses parents à payer un professeur particulier à domicile pendant deux ans.",
+            "Le placer dans une classe de maternelle avec les enfants de 3 ans."
+        ],
+        "reponse": "L'accueillir comme tous les autres enfants et lui proposer un dispositif spécifique pour apprendre le français tout en suivant sa scolarité."
+    },
+    {
+        "question": "Votre neveu est en situation de handicap. Ses parents souhaitent l'inscrire dans l'école publique de leur commune. Comment l'école réagit-elle ?",
+        "options": [
+            "En vertu du principe de l'École inclusive, l'école s'adapte pour l'accueillir en milieu ordinaire (avec un emploi du temps aménagé ou l'aide d'un accompagnant AESH).",
+            "L'école publique refuse systématiquement les enfants en situation de handicap.",
+            "Les parents doivent payer le double des frais de cantine pour compenser.",
+            "La loi interdit aux enfants handicapés de fréquenter les mêmes classes que les autres élèves."
+        ],
+        "reponse": "En vertu du principe de l'École inclusive, l'école s'adapte pour l'accueillir en milieu ordinaire (avec un emploi du temps aménagé ou l'aide d'un accompagnant AESH)."
+    },
+    {
+        "question": "Vous souhaitez vous investir dans la vie de l'école primaire de votre enfant. Quels sont vos droits en tant que parent d'élève ?",
+        "options": [
+            "Rencontrer les professeurs, voter ou vous présenter aux élections des représentants de parents d'élèves et siéger au conseil d'école.",
+            "Modifier vous-même les programmes d'histoire et de sciences enseignés par l'instituteur.",
+            "Entrer sans autorisation dans la salle de classe pendant les cours pour surveiller le professeur.",
+            "Dispenser votre enfant des cours de sport ou de natation parce qu'ils sont mixtes."
+        ],
+        "reponse": "Rencontrer les professeurs, voter ou vous présenter aux élections des représentants de parents d'élèves et siéger au conseil d'école."
+    },
+    {
+        "question": "Des parents décident de partir en vacances à l'étranger une semaine avant le début officiel des vacances scolaires et gardent leur enfant de 10 ans avec eux. Ce motif d'absence est-il accepté par l'école ?",
+        "options": [
+            "Non, partir en vacances hors des périodes officielles est une absence injustifiée ; seuls des motifs légitimes (maladie de l'enfant, événement familial solennel, grève des transports) sont acceptés.",
+            "Oui, les parents peuvent retirer leur enfant de l'école jusqu'à un mois par an pour voyager.",
+            "Oui, à condition d'apporter un cadeau au directeur de l'école au retour.",
+            "Oui, si l'enfant a de bonnes notes en classe."
+        ],
+        "reponse": "Non, partir en vacances hors des périodes officielles est une absence injustifiée ; seuls des motifs légitimes (maladie de l'enfant, événement familial solennel, grève des transports) sont acceptés."
+    },
+    {
+        "question": "En vacances dans le sud-est de la France, vous souhaitez traverser la frontière terrestre pour visiter l'Italie. Quelle chaîne de montagnes allez-vous franchir ?",
+        "options": [
+            "Les Alpes (où culmine le Mont-Blanc).",
+            "Les Pyrénées.",
+            "Les Vosges.",
+            "Le Massif armoricain."
+        ],
+        "reponse": "Les Alpes (où culmine le Mont-Blanc)."
+    },
+    {
+        "question": "Vous prenez l'avion depuis Paris pour vous rendre dans un département français situé en Amérique du Sud, qui partage une frontière terrestre avec le Brésil et d'où décolle la fusée Ariane (à Kourou). Où allez-vous ?",
+        "options": [
+            "En Guyane.",
+            "À La Réunion.",
+            "À Mayotte.",
+            "En Corse."
+        ],
+        "reponse": "En Guyane."
+    },
+    {
+        "question": "Vous visitez le musée du Louvre à Paris et le musée d'Orsay. Quelles œuvres célèbres du patrimoine culturel pouvez-vous y admirer ?",
+        "options": [
+            "La Joconde et La Liberté guidant le peuple (Eugène Delacroix) au Louvre, ainsi que les peintures impressionnistes (Claude Monet, Auguste Renoir) à Orsay.",
+            "Les peintures préhistoriques originales de la grotte de Lascaux.",
+            "Le lancement de la fusée européenne Ariane.",
+            "Le siège officiel du Parlement européen."
+        ],
+        "reponse": "La Joconde et La Liberté guidant le peuple (Eugène Delacroix) au Louvre, ainsi que les peintures impressionnistes (Claude Monet, Auguste Renoir) à Orsay."
+    },
+    {
+        "question": "Chaque année, le 9 décembre, l'école de votre enfant organise des débats et des activités pédagogiques autour d'une valeur fondamentale de la République. De quelle journée s'agit-il ?",
+        "options": [
+            "La Journée de la laïcité (anniversaire de la loi du 9 décembre 1905 de séparation des Églises et de l'État).",
+            "La Journée de l'Europe (qui a lieu le 9 mai).",
+            "La Fête nationale de la République.",
+            "L'anniversaire de l'abolition de l'esclavage par Victor Schœlcher."
+        ],
+        "reponse": "La Journée de la laïcité (anniversaire de la loi du 9 décembre 1905 de séparation des Églises et de l'État)."
+    }
+]
