@@ -25,7 +25,35 @@ Cette application a été conçue pour aider les candidats à préparer le QCM o
 
 L'application est déployée et prête à l'emploi. Il vous suffit de cliquer sur l'onglet **App** en haut de cette page pour lancer le chronomètre et tester vos connaissances. Bonne révision !
 
-Check out [this link][LINK] with the application deployed in Streamlit.
 
-[LINK]: https://examenciviquenaturalisation.streamlit.app/
-
+<div align="center">
+ 
+<h2 style="color: #1E88E5;">
+Application deployed on Streamlit
+</h2>
+ 
+<p style="font-size: 24px; font-weight: bold;">
+Check out the
+<a
+href="https://examenciviquenaturalisation.streamlit.app/"
+target="_blank"
+rel="noopener noreferrer"
+style="color: #E63946; text-decoration: underline;"
+>
+Examen Civique Naturalisation application
+</a>
+</p>
+ 
+<a
+href="https://examenciviquenaturalisation.streamlit.app/"
+target="_blank"
+rel="noopener noreferrer"
+>
+<img
+src="https://raw.githubusercontent.com/cysorianoc/Examen_Civique_Naturalisation/main/app%20interface.jpg"
+alt="Examen Civique Naturalisation application interface"
+width="800"
+/>
+</a>
+ 
+</div>
